@@ -3,8 +3,8 @@
 ## Basic analyses:
 
 1. Metagenome assembly
-..* Time: ~6h (2 cores)
---* Program: Megahit
+  * Time: ~6h (2 cores)
+  * Program: Megahit
 2. Binning of assembly
 ..* Time: < 30 min (2 cores)
 ..* Program: Metabat
