@@ -23,7 +23,16 @@ The most time consuming step, looking at runtime, seems to be assembling the gen
 | 5 | Basic phylogenetic placement of bins (Taxonomic ID)   | PhyloPhlan   | ~6h   | You have to install Phylophlan in your home in UPPMAX (see Student manual page 31)   |
 | 6 | Analyses of activity (expression level) of different bins   | ?   | ?   | -   |
 
-#### Extra analyses: TBA
+#### Extra analyses:
+
+- [ ] Abundance of different organisms/ bins
+- [ ] Refine taxonomic ID of assembled genomes
+- [ ] Metabolic pathway reconstructions for chosen bins
+- [ ] Analysis of expression data of chose gene groups (i.e: respiratory genes, genes involved in carbohydrate metabolism, etc)
+- [ ] Comparisons across bins (pathways, expression certain genes groups, etc)
+- [ ] Comparative genomics of bins
+- [ ] Ortholog gene clustering of bins
+
 
 ## Time frame
 
@@ -36,25 +45,25 @@ Preliminary spacing of lab sessions tasks.
 
 | Date | Step # | Assigmnent |
 |-----|------------|
-| 28/3  |   |Planning   |
-| 29/3  |   |Planning & setup  |
-| 10/4  | 1 | Metagenome assembly (step 1)  |
-| 12/4  | 2 | Binning (step 2)  |
-| 17/4  | 3 | Quality checking (step 3)  |
-| 19/4  | 4 | Functional annotation (step 4)  |
-| 25/4  |   | **Sanity check**  |
-| 27/4  | 5 | Phylogenetics (step 5)  |
-| 4/5  |   |   |
-| 8/5  | 6  | Expression (step 6)  |
-| 9/5  |    |   |
-| 14/5  |    | Analyzing results  |
-| 16/5  |    | Extra analyses  |
-| 17/5  |    | Analyzing results  |
+| 03-28  |   |Planning   |
+| 03-29  |   |Planning & setup  |
+| 03-10  | 1 | Metagenome assembly (step 1)  |
+| 03-12  | 2 | Binning (step 2)  |
+| 03-17  | 3 | Quality checking (step 3)  |
+| 03-19  | 4 | Functional annotation (step 4)  |
+| 03-25  |   | **Sanity check**  |
+| 03-27  | 5 | Phylogenetics (step 5)  |
+| 05-4  |   |   |
+| 05-8  | 6  | Expression (step 6)  |
+| 05-9  |    |   |
+| 05-14  |    | Analyzing results  |
+| 05-16  |    | Extra analyses  |
+| 05-17  |    | Analyzing results  |
 
 **Presentation of results:** 2018-05-24, 25
 
 ## Data
-The data consists of roughly 9 GB of sequence data in fastq-format. This contains both the raw sequence data and trimmed data where the authors of the paper trimmed away
+The data consists of roughly 9 GB of sequence data in fastq-format. This contains both the raw sequence data and trimmed data where the authors of the paper trimmed away adaptors and low quality reads. Roughly 4 million reads were discarded leaving the final ammount of reads at 413,094,662. During this project the trimmed data will be used for analysis. Data is stored at UPPMAX (/proj/g2018003/nobackup/private/Thrash2017/)
 
 #### Organization of data
 Some tree structure?
@@ -62,25 +71,6 @@ Some tree structure?
 ga2018/
 
 ├─── analyses
-
-.
-+-- _config.yml
-+-- _drafts
-|   +-- begin-with-the-crazy-ideas.textile
-|   +-- on-simplicity-in-technology.markdown
-+-- _includes
-|   +-- footer.html
-|   +-- header.html
-+-- _layouts
-|   +-- default.html
-|   +-- post.html
-+-- _posts
-|   +-- 2007-10-29-why-every-programmer-should-play-nethack.textile
-|   +-- 2009-04-26-barcamp-boston-4-roundup.textile
-+-- _data
-|   +-- members.yml
-+-- _site
-+-- index.html
 
 
 └───
