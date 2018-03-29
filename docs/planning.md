@@ -45,7 +45,7 @@ The list includes possible extra analyses. Marked ones are considered for extra 
 Preliminary spacing of lab sessions tasks.
 
 | Date | Step # | Assigmnent |
-|-----|------------|
+|--------|---|------------|
 | 03-28  |   |Planning   |
 | 03-29  |   |Planning & setup  |
 | 03-10  | 1 | Metagenome assembly (step 1)  |
