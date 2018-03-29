@@ -24,12 +24,13 @@ The most time consuming step, looking at runtime, seems to be assembling the gen
 | 6 | Analyses of activity (expression level) of different bins   | ?   | ?   | -   |
 
 #### Extra analyses:
+The list includes possible extra analyses. Marked ones are considered for extra anlysis.
 
-- [ ] Abundance of different organisms/ bins
+- [x] Abundance of different organisms/ bins
 - [ ] Refine taxonomic ID of assembled genomes
-- [ ] Metabolic pathway reconstructions for chosen bins
+- [x] Metabolic pathway reconstructions for chosen bins
 - [ ] Analysis of expression data of chose gene groups (i.e: respiratory genes, genes involved in carbohydrate metabolism, etc)
-- [ ] Comparisons across bins (pathways, expression certain genes groups, etc)
+- [x] Comparisons across bins (pathways, expression certain genes groups, etc)
 - [ ] Comparative genomics of bins
 - [ ] Ortholog gene clustering of bins
 
