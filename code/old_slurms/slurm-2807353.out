@@ -1,0 +1,22 @@
+125.0Gb memory in total.
+Using: 112.83Gb.
+MEGAHIT v1.1.2
+--- [Sun Apr 22 16:10:41 2018] Start assembly. Number of CPU threads 20 ---
+--- [Sun Apr 22 16:10:41 2018] Available memory: 134611120128, used: 121150008115
+--- [Sun Apr 22 16:10:41 2018] Converting reads to binaries ---
+    [read_lib_functions-inl.h  : 209]     Lib 0 (/home/haol7814/ga2018/data/trimmed_data/SRR4342129_1.paired.trimmed.fastq.gz,/home/haol7814/ga2018/data/trimmed_data/SRR4342129_2.paired.trimmed.fastq.gz): pe, 48110692 reads, 101 max length
+    [read_lib_functions-inl.h  : 209]     Lib 1 (/home/haol7814/ga2018/data/trimmed_data/SRR4342133_1.paired.trimmed.fastq.gz,/home/haol7814/ga2018/data/trimmed_data/SRR4342133_2.paired.trimmed.fastq.gz): pe, 59954188 reads, 101 max length
+    [utils.h                   : 126]     Real: 242.1201	user: 103.0344	sys: 10.2021	maxrss: 152336
+--- [Sun Apr 22 16:14:46 2018] k-max reset to: 119 ---
+--- [Sun Apr 22 16:14:46 2018] k list: 21,29,39,59,79,99,119 ---
+--- [Sun Apr 22 16:14:46 2018] Extracting solid (k+1)-mers and building sdbg for k = 21 ---
+--- [Sun Apr 22 18:44:56 2018] Assembling contigs from SdBG for k = 21 ---
+--- [Sun Apr 22 21:28:33 2018] Local assembling k = 21 ---
+--- [Sun Apr 22 21:58:57 2018] Extracting iterative edges from k = 21 to 29 ---
+--- [Sun Apr 22 22:38:05 2018] Building graph for k = 29 ---
+--- [Sun Apr 22 22:58:09 2018] Assembling contigs from SdBG for k = 29 ---
+--- [Mon Apr 23 00:46:30 2018] Local assembling k = 29 ---
+--- [Mon Apr 23 01:25:43 2018] Extracting iterative edges from k = 29 to 39 ---
+--- [Mon Apr 23 01:57:13 2018] Building graph for k = 39 ---
+--- [Mon Apr 23 02:16:20 2018] Assembling contigs from SdBG for k = 39 ---
+slurmstepd: error: *** JOB 2807353 ON r149 CANCELLED AT 2018-04-23T03:10:55 DUE TO TIME LIMIT ***

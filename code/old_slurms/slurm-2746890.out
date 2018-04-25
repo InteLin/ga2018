@@ -1,0 +1,18 @@
+125.0Gb memory in total.
+Using: 112.83Gb.
+MEGAHIT v1.1.2
+--- [Thu Apr 19 13:42:38 2018] Start assembly. Number of CPU threads 20 ---
+--- [Thu Apr 19 13:42:38 2018] Available memory: 134611120128, used: 121150008115
+--- [Thu Apr 19 13:42:38 2018] Converting reads to binaries ---
+    [read_lib_functions-inl.h  : 209]     Lib 0 (/home/haol7814/ga2018/data/trimmed_data/SRR4342129_1.paired.trimmed.fastq.gz,/home/haol7814/ga2018/data/trimmed_data/SRR4342129_2.paired.trimmed.fastq.gz): pe, 48110692 reads, 101 max length
+    [read_lib_functions-inl.h  : 209]     Lib 1 (/home/haol7814/ga2018/data/trimmed_data/SRR4342133_1.paired.trimmed.fastq.gz,/home/haol7814/ga2018/data/trimmed_data/SRR4342133_2.paired.trimmed.fastq.gz): pe, 59954188 reads, 101 max length
+    [utils.h                   : 126]     Real: 251.7691	user: 104.1759	sys: 11.1287	maxrss: 152180
+--- [Thu Apr 19 13:46:52 2018] k-max reset to: 119 ---
+--- [Thu Apr 19 13:46:52 2018] k list: 21,29,39,59,79,99,119 ---
+--- [Thu Apr 19 13:46:52 2018] Extracting solid (k+1)-mers and building sdbg for k = 21 ---
+--- [Thu Apr 19 16:17:07 2018] Assembling contigs from SdBG for k = 21 ---
+--- [Thu Apr 19 18:49:54 2018] Local assembling k = 21 ---
+--- [Thu Apr 19 19:17:16 2018] Extracting iterative edges from k = 21 to 29 ---
+--- [Thu Apr 19 19:51:03 2018] Building graph for k = 29 ---
+--- [Thu Apr 19 20:11:28 2018] Assembling contigs from SdBG for k = 29 ---
+slurmstepd: error: *** JOB 2746890 ON r65 CANCELLED AT 2018-04-19T21:42:36 DUE TO TIME LIMIT ***
