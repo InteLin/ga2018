@@ -3,7 +3,7 @@
 #SBATCH -p core
 #SBATCH -n 2
 #SBATCH -t 08:00:00
-#SBATCH -J phylo_placem
+#SBATCH -J phylo_placem_tax
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user hampus.olin.7814@student.uu.se
 # Load modules
@@ -15,4 +15,4 @@ module load muscle
 module load usearch/5.2.32
 # Your commands
 cd /home/haol7814/nsegata-phylophlan-1d174e34b2ae
-./phylophlan.py -u ga_phylo
+./phylophlan.py -i -t  ga_phylo
