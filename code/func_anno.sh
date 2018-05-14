@@ -2,7 +2,7 @@
 #SBATCH -A g2018003
 #SBATCH -p core
 #SBATCH -n 2
-#SBATCH -t 02:00:00
+#SBATCH -t 08:00:00
 #SBATCH -J func_anno
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user hampus.olin.7814@student.uu.se
