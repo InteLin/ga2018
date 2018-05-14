@@ -12,3 +12,15 @@
 [BWTIncConstructFromPacked] 90 iterations done. 531055084 characters processed.
 [BWTIncConstructFromPacked] 100 iterations done. 562269740 characters processed.
 [BWTIncConstructFromPacked] 110 iterations done. 590009372 characters processed.
+[BWTIncConstructFromPacked] 120 iterations done. 614660396 characters processed.
+[BWTIncConstructFromPacked] 130 iterations done. 636566252 characters processed.
+[bwt_gen] Finished constructing BWT in 133 iterations.
+[bwa_index] 282.24 seconds elapse.
+[bwa_index] Update BWT... 2.12 sec
+[bwa_index] Pack forward-only FASTA... 2.18 sec
+[bwa_index] Construct SA from BWT and Occ... 98.87 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/haol7814/ga2018/analyses/02_assembly/final.contigs.fa
+[main] Real time: 398.716 sec; CPU: 389.171 sec
+/var/spool/slurmd/job3022777/slurm_script: line 14: samtools: command not found
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
