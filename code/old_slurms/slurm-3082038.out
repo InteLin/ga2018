@@ -1,0 +1,11 @@
+Several complimentary python scripts are available with pplacer/1.1.alpha19. 'module help pplacer/1.1.alpha19' for more information
+Several complimentary python scripts are available with pplacer/1.1.alpha19. 'module help pplacer/1.1.alpha19' for more information
+Extracting data/ppa.seeds.faa ... Done!
+Extracting data/ppafull.aln.faa ... Done!
+Extracting data/ppafull.xml ... Done!
+Extracting data/ppafull.up2prots.txt ... Done!
+Extracting data/ppafull.orgs2prots.txt ... Done!
+Extracting data/ppaalns/ppa.aln.tar.bz2 ... Done!
+Generating data/ppa.wdb (usearch indexed DB)... Done!
+[E] No '.faa' input files found in input/
+Exiting... 

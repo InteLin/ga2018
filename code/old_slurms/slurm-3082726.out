@@ -1,0 +1,2648 @@
+	trimmomatic 0.36 loaded, see 'module help trimmomatic/0.36' for more information.
+All usearch runs already performed!
+Mapping finished in 0 secs.
+
+Merging alignments from user genomes with all the PhyloPhlAn alignments
+391 alignments to be merged
+Running muscle on data/ga_phylo/p0000.aln and data/ppaalns/p0000.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0000.int.sub.aln generated (from data/ga_phylo/p0000.aln and data/ppaalns/p0000.aln)!
+Running muscle on data/ga_phylo/p0001.aln and data/ppaalns/p0001.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0001.int.sub.aln generated (from data/ga_phylo/p0001.aln and data/ppaalns/p0001.aln)!
+Running muscle on data/ga_phylo/p0002.aln and data/ppaalns/p0002.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0002.int.sub.aln generated (from data/ga_phylo/p0002.aln and data/ppaalns/p0002.aln)!
+Running muscle on data/ga_phylo/p0003.aln and data/ppaalns/p0003.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0003.int.sub.aln generated (from data/ga_phylo/p0003.aln and data/ppaalns/p0003.aln)!
+Running muscle on data/ga_phylo/p0004.aln and data/ppaalns/p0004.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0004.int.sub.aln generated (from data/ga_phylo/p0004.aln and data/ppaalns/p0004.aln)!
+Running muscle on data/ga_phylo/p0005.aln and data/ppaalns/p0005.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0005.int.sub.aln generated (from data/ga_phylo/p0005.aln and data/ppaalns/p0005.aln)!
+Running muscle on data/ga_phylo/p0006.aln and data/ppaalns/p0006.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0006.int.sub.aln generated (from data/ga_phylo/p0006.aln and data/ppaalns/p0006.aln)!
+Running muscle on data/ga_phylo/p0007.aln and data/ppaalns/p0007.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0007.int.sub.aln generated (from data/ga_phylo/p0007.aln and data/ppaalns/p0007.aln)!
+Running muscle on data/ga_phylo/p0008.aln and data/ppaalns/p0008.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0008.int.sub.aln generated (from data/ga_phylo/p0008.aln and data/ppaalns/p0008.aln)!
+Running muscle on data/ga_phylo/p0009.aln and data/ppaalns/p0009.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQZ
+data/ga_phylo/p0009.int.sub.aln generated (from data/ga_phylo/p0009.aln and data/ppaalns/p0009.aln)!
+Running muscle on data/ga_phylo/p0010.aln and data/ppaalns/p0010.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0010.int.sub.aln generated (from data/ga_phylo/p0010.aln and data/ppaalns/p0010.aln)!
+Running muscle on data/ga_phylo/p0011.aln and data/ppaalns/p0011.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0011.int.sub.aln generated (from data/ga_phylo/p0011.aln and data/ppaalns/p0011.aln)!
+Running muscle on data/ga_phylo/p0012.aln and data/ppaalns/p0012.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0012.int.sub.aln generated (from data/ga_phylo/p0012.aln and data/ppaalns/p0012.aln)!
+Running muscle on data/ga_phylo/p0013.aln and data/ppaalns/p0013.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0013.int.sub.aln generated (from data/ga_phylo/p0013.aln and data/ppaalns/p0013.aln)!
+Running muscle on data/ga_phylo/p0014.aln and data/ppaalns/p0014.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0014.int.sub.aln generated (from data/ga_phylo/p0014.aln and data/ppaalns/p0014.aln)!
+Running muscle on data/ga_phylo/p0015.aln and data/ppaalns/p0015.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0015.int.sub.aln generated (from data/ga_phylo/p0015.aln and data/ppaalns/p0015.aln)!
+Running muscle on data/ga_phylo/p0016.aln and data/ppaalns/p0016.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0016.int.sub.aln generated (from data/ga_phylo/p0016.aln and data/ppaalns/p0016.aln)!
+Running muscle on data/ga_phylo/p0017.aln and data/ppaalns/p0017.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0017.int.sub.aln generated (from data/ga_phylo/p0017.aln and data/ppaalns/p0017.aln)!
+Running muscle on data/ga_phylo/p0018.aln and data/ppaalns/p0018.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0018.int.sub.aln generated (from data/ga_phylo/p0018.aln and data/ppaalns/p0018.aln)!
+Running muscle on data/ga_phylo/p0019.aln and data/ppaalns/p0019.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0019.int.sub.aln generated (from data/ga_phylo/p0019.aln and data/ppaalns/p0019.aln)!
+Running muscle on data/ga_phylo/p0020.aln and data/ppaalns/p0020.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0020.int.sub.aln generated (from data/ga_phylo/p0020.aln and data/ppaalns/p0020.aln)!
+Running muscle on data/ga_phylo/p0021.aln and data/ppaalns/p0021.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0021.int.sub.aln generated (from data/ga_phylo/p0021.aln and data/ppaalns/p0021.aln)!
+Running muscle on data/ga_phylo/p0022.aln and data/ppaalns/p0022.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0022.int.sub.aln generated (from data/ga_phylo/p0022.aln and data/ppaalns/p0022.aln)!
+Running muscle on data/ga_phylo/p0023.aln and data/ppaalns/p0023.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0023.int.sub.aln generated (from data/ga_phylo/p0023.aln and data/ppaalns/p0023.aln)!
+Running muscle on data/ga_phylo/p0024.aln and data/ppaalns/p0024.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0024.int.sub.aln generated (from data/ga_phylo/p0024.aln and data/ppaalns/p0024.aln)!
+Running muscle on data/ga_phylo/p0025.aln and data/ppaalns/p0025.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0025.int.sub.aln generated (from data/ga_phylo/p0025.aln and data/ppaalns/p0025.aln)!
+Running muscle on data/ga_phylo/p0026.aln and data/ppaalns/p0026.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0026.int.sub.aln generated (from data/ga_phylo/p0026.aln and data/ppaalns/p0026.aln)!
+Running muscle on data/ga_phylo/p0027.aln and data/ppaalns/p0027.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0027.int.sub.aln generated (from data/ga_phylo/p0027.aln and data/ppaalns/p0027.aln)!
+Running muscle on data/ga_phylo/p0028.aln and data/ppaalns/p0028.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0028.int.sub.aln generated (from data/ga_phylo/p0028.aln and data/ppaalns/p0028.aln)!
+Running muscle on data/ga_phylo/p0029.aln and data/ppaalns/p0029.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0029.int.sub.aln generated (from data/ga_phylo/p0029.aln and data/ppaalns/p0029.aln)!
+Running muscle on data/ga_phylo/p0030.aln and data/ppaalns/p0030.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0030.int.sub.aln generated (from data/ga_phylo/p0030.aln and data/ppaalns/p0030.aln)!
+Running muscle on data/ga_phylo/p0031.aln and data/ppaalns/p0031.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0031.int.sub.aln generated (from data/ga_phylo/p0031.aln and data/ppaalns/p0031.aln)!
+Running muscle on data/ga_phylo/p0032.aln and data/ppaalns/p0032.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0032.int.sub.aln generated (from data/ga_phylo/p0032.aln and data/ppaalns/p0032.aln)!
+Running muscle on data/ga_phylo/p0033.aln and data/ppaalns/p0033.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0033.int.sub.aln generated (from data/ga_phylo/p0033.aln and data/ppaalns/p0033.aln)!
+Running muscle on data/ga_phylo/p0034.aln and data/ppaalns/p0034.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0034.int.sub.aln generated (from data/ga_phylo/p0034.aln and data/ppaalns/p0034.aln)!
+Running muscle on data/ga_phylo/p0035.aln and data/ppaalns/p0035.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0035.int.sub.aln generated (from data/ga_phylo/p0035.aln and data/ppaalns/p0035.aln)!
+Running muscle on data/ga_phylo/p0036.aln and data/ppaalns/p0036.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0036.int.sub.aln generated (from data/ga_phylo/p0036.aln and data/ppaalns/p0036.aln)!
+Running muscle on data/ga_phylo/p0037.aln and data/ppaalns/p0037.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0037.int.sub.aln generated (from data/ga_phylo/p0037.aln and data/ppaalns/p0037.aln)!
+Running muscle on data/ga_phylo/p0038.aln and data/ppaalns/p0038.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0038.int.sub.aln generated (from data/ga_phylo/p0038.aln and data/ppaalns/p0038.aln)!
+Running muscle on data/ga_phylo/p0039.aln and data/ppaalns/p0039.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0039.int.sub.aln generated (from data/ga_phylo/p0039.aln and data/ppaalns/p0039.aln)!
+Running muscle on data/ga_phylo/p0040.aln and data/ppaalns/p0040.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0040.int.sub.aln generated (from data/ga_phylo/p0040.aln and data/ppaalns/p0040.aln)!
+Running muscle on data/ga_phylo/p0041.aln and data/ppaalns/p0041.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0041.int.sub.aln generated (from data/ga_phylo/p0041.aln and data/ppaalns/p0041.aln)!
+Running muscle on data/ga_phylo/p0042.aln and data/ppaalns/p0042.aln...
+
+*** WARNING *** Assuming RNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0042.int.sub.aln generated (from data/ga_phylo/p0042.aln and data/ppaalns/p0042.aln)!
+Running muscle on data/ga_phylo/p0043.aln and data/ppaalns/p0043.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0043.int.sub.aln generated (from data/ga_phylo/p0043.aln and data/ppaalns/p0043.aln)!
+Running muscle on data/ga_phylo/p0044.aln and data/ppaalns/p0044.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0044.int.sub.aln generated (from data/ga_phylo/p0044.aln and data/ppaalns/p0044.aln)!
+Running muscle on data/ga_phylo/p0045.aln and data/ppaalns/p0045.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0045.int.sub.aln generated (from data/ga_phylo/p0045.aln and data/ppaalns/p0045.aln)!
+Running muscle on data/ga_phylo/p0046.aln and data/ppaalns/p0046.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0046.int.sub.aln generated (from data/ga_phylo/p0046.aln and data/ppaalns/p0046.aln)!
+Running muscle on data/ga_phylo/p0047.aln and data/ppaalns/p0047.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0047.int.sub.aln generated (from data/ga_phylo/p0047.aln and data/ppaalns/p0047.aln)!
+Running muscle on data/ga_phylo/p0048.aln and data/ppaalns/p0048.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQZ
+data/ga_phylo/p0048.int.sub.aln generated (from data/ga_phylo/p0048.aln and data/ppaalns/p0048.aln)!
+Running muscle on data/ga_phylo/p0049.aln and data/ppaalns/p0049.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0049.int.sub.aln generated (from data/ga_phylo/p0049.aln and data/ppaalns/p0049.aln)!
+Running muscle on data/ga_phylo/p0050.aln and data/ppaalns/p0050.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0050.int.sub.aln generated (from data/ga_phylo/p0050.aln and data/ppaalns/p0050.aln)!
+Running muscle on data/ga_phylo/p0051.aln and data/ppaalns/p0051.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0051.int.sub.aln generated (from data/ga_phylo/p0051.aln and data/ppaalns/p0051.aln)!
+Running muscle on data/ga_phylo/p0052.aln and data/ppaalns/p0052.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0052.int.sub.aln generated (from data/ga_phylo/p0052.aln and data/ppaalns/p0052.aln)!
+Running muscle on data/ga_phylo/p0053.aln and data/ppaalns/p0053.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0053.int.sub.aln generated (from data/ga_phylo/p0053.aln and data/ppaalns/p0053.aln)!
+Running muscle on data/ga_phylo/p0054.aln and data/ppaalns/p0054.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0054.int.sub.aln generated (from data/ga_phylo/p0054.aln and data/ppaalns/p0054.aln)!
+Running muscle on data/ga_phylo/p0055.aln and data/ppaalns/p0055.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0055.int.sub.aln generated (from data/ga_phylo/p0055.aln and data/ppaalns/p0055.aln)!
+Running muscle on data/ga_phylo/p0056.aln and data/ppaalns/p0056.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0056.int.sub.aln generated (from data/ga_phylo/p0056.aln and data/ppaalns/p0056.aln)!
+Running muscle on data/ga_phylo/p0057.aln and data/ppaalns/p0057.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0057.int.sub.aln generated (from data/ga_phylo/p0057.aln and data/ppaalns/p0057.aln)!
+Running muscle on data/ga_phylo/p0058.aln and data/ppaalns/p0058.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0058.int.sub.aln generated (from data/ga_phylo/p0058.aln and data/ppaalns/p0058.aln)!
+Running muscle on data/ga_phylo/p0059.aln and data/ppaalns/p0059.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0059.int.sub.aln generated (from data/ga_phylo/p0059.aln and data/ppaalns/p0059.aln)!
+Running muscle on data/ga_phylo/p0060.aln and data/ppaalns/p0060.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0060.int.sub.aln generated (from data/ga_phylo/p0060.aln and data/ppaalns/p0060.aln)!
+Running muscle on data/ga_phylo/p0061.aln and data/ppaalns/p0061.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0061.int.sub.aln generated (from data/ga_phylo/p0061.aln and data/ppaalns/p0061.aln)!
+Running muscle on data/ga_phylo/p0062.aln and data/ppaalns/p0062.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0062.int.sub.aln generated (from data/ga_phylo/p0062.aln and data/ppaalns/p0062.aln)!
+Running muscle on data/ga_phylo/p0063.aln and data/ppaalns/p0063.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0063.int.sub.aln generated (from data/ga_phylo/p0063.aln and data/ppaalns/p0063.aln)!
+Running muscle on data/ga_phylo/p0064.aln and data/ppaalns/p0064.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0064.int.sub.aln generated (from data/ga_phylo/p0064.aln and data/ppaalns/p0064.aln)!
+Running muscle on data/ga_phylo/p0065.aln and data/ppaalns/p0065.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0065.int.sub.aln generated (from data/ga_phylo/p0065.aln and data/ppaalns/p0065.aln)!
+Running muscle on data/ga_phylo/p0066.aln and data/ppaalns/p0066.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0066.int.sub.aln generated (from data/ga_phylo/p0066.aln and data/ppaalns/p0066.aln)!
+Running muscle on data/ga_phylo/p0068.aln and data/ppaalns/p0068.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0068.int.sub.aln generated (from data/ga_phylo/p0068.aln and data/ppaalns/p0068.aln)!
+Running muscle on data/ga_phylo/p0069.aln and data/ppaalns/p0069.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0069.int.sub.aln generated (from data/ga_phylo/p0069.aln and data/ppaalns/p0069.aln)!
+Running muscle on data/ga_phylo/p0070.aln and data/ppaalns/p0070.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0070.int.sub.aln generated (from data/ga_phylo/p0070.aln and data/ppaalns/p0070.aln)!
+Running muscle on data/ga_phylo/p0071.aln and data/ppaalns/p0071.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0071.int.sub.aln generated (from data/ga_phylo/p0071.aln and data/ppaalns/p0071.aln)!
+Running muscle on data/ga_phylo/p0072.aln and data/ppaalns/p0072.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0072.int.sub.aln generated (from data/ga_phylo/p0072.aln and data/ppaalns/p0072.aln)!
+Running muscle on data/ga_phylo/p0073.aln and data/ppaalns/p0073.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0073.int.sub.aln generated (from data/ga_phylo/p0073.aln and data/ppaalns/p0073.aln)!
+Running muscle on data/ga_phylo/p0074.aln and data/ppaalns/p0074.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0074.int.sub.aln generated (from data/ga_phylo/p0074.aln and data/ppaalns/p0074.aln)!
+Running muscle on data/ga_phylo/p0075.aln and data/ppaalns/p0075.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0075.int.sub.aln generated (from data/ga_phylo/p0075.aln and data/ppaalns/p0075.aln)!
+Running muscle on data/ga_phylo/p0076.aln and data/ppaalns/p0076.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0076.int.sub.aln generated (from data/ga_phylo/p0076.aln and data/ppaalns/p0076.aln)!
+Running muscle on data/ga_phylo/p0077.aln and data/ppaalns/p0077.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0077.int.sub.aln generated (from data/ga_phylo/p0077.aln and data/ppaalns/p0077.aln)!
+Running muscle on data/ga_phylo/p0078.aln and data/ppaalns/p0078.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0078.int.sub.aln generated (from data/ga_phylo/p0078.aln and data/ppaalns/p0078.aln)!
+Running muscle on data/ga_phylo/p0079.aln and data/ppaalns/p0079.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0079.int.sub.aln generated (from data/ga_phylo/p0079.aln and data/ppaalns/p0079.aln)!
+Running muscle on data/ga_phylo/p0080.aln and data/ppaalns/p0080.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0080.int.sub.aln generated (from data/ga_phylo/p0080.aln and data/ppaalns/p0080.aln)!
+Running muscle on data/ga_phylo/p0081.aln and data/ppaalns/p0081.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0081.int.sub.aln generated (from data/ga_phylo/p0081.aln and data/ppaalns/p0081.aln)!
+Running muscle on data/ga_phylo/p0082.aln and data/ppaalns/p0082.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0082.int.sub.aln generated (from data/ga_phylo/p0082.aln and data/ppaalns/p0082.aln)!
+Running muscle on data/ga_phylo/p0083.aln and data/ppaalns/p0083.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0083.int.sub.aln generated (from data/ga_phylo/p0083.aln and data/ppaalns/p0083.aln)!
+Running muscle on data/ga_phylo/p0084.aln and data/ppaalns/p0084.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0084.int.sub.aln generated (from data/ga_phylo/p0084.aln and data/ppaalns/p0084.aln)!
+Running muscle on data/ga_phylo/p0085.aln and data/ppaalns/p0085.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0085.int.sub.aln generated (from data/ga_phylo/p0085.aln and data/ppaalns/p0085.aln)!
+Running muscle on data/ga_phylo/p0086.aln and data/ppaalns/p0086.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0086.int.sub.aln generated (from data/ga_phylo/p0086.aln and data/ppaalns/p0086.aln)!
+Running muscle on data/ga_phylo/p0087.aln and data/ppaalns/p0087.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0087.int.sub.aln generated (from data/ga_phylo/p0087.aln and data/ppaalns/p0087.aln)!
+Running muscle on data/ga_phylo/p0088.aln and data/ppaalns/p0088.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0088.int.sub.aln generated (from data/ga_phylo/p0088.aln and data/ppaalns/p0088.aln)!
+Running muscle on data/ga_phylo/p0089.aln and data/ppaalns/p0089.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0089.int.sub.aln generated (from data/ga_phylo/p0089.aln and data/ppaalns/p0089.aln)!
+Running muscle on data/ga_phylo/p0090.aln and data/ppaalns/p0090.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0090.int.sub.aln generated (from data/ga_phylo/p0090.aln and data/ppaalns/p0090.aln)!
+Running muscle on data/ga_phylo/p0091.aln and data/ppaalns/p0091.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0091.int.sub.aln generated (from data/ga_phylo/p0091.aln and data/ppaalns/p0091.aln)!
+Running muscle on data/ga_phylo/p0092.aln and data/ppaalns/p0092.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0092.int.sub.aln generated (from data/ga_phylo/p0092.aln and data/ppaalns/p0092.aln)!
+Running muscle on data/ga_phylo/p0093.aln and data/ppaalns/p0093.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0093.int.sub.aln generated (from data/ga_phylo/p0093.aln and data/ppaalns/p0093.aln)!
+Running muscle on data/ga_phylo/p0094.aln and data/ppaalns/p0094.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0094.int.sub.aln generated (from data/ga_phylo/p0094.aln and data/ppaalns/p0094.aln)!
+Running muscle on data/ga_phylo/p0095.aln and data/ppaalns/p0095.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0095.int.sub.aln generated (from data/ga_phylo/p0095.aln and data/ppaalns/p0095.aln)!
+Running muscle on data/ga_phylo/p0096.aln and data/ppaalns/p0096.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0096.int.sub.aln generated (from data/ga_phylo/p0096.aln and data/ppaalns/p0096.aln)!
+Running muscle on data/ga_phylo/p0097.aln and data/ppaalns/p0097.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0097.int.sub.aln generated (from data/ga_phylo/p0097.aln and data/ppaalns/p0097.aln)!
+Running muscle on data/ga_phylo/p0098.aln and data/ppaalns/p0098.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0098.int.sub.aln generated (from data/ga_phylo/p0098.aln and data/ppaalns/p0098.aln)!
+Running muscle on data/ga_phylo/p0099.aln and data/ppaalns/p0099.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0099.int.sub.aln generated (from data/ga_phylo/p0099.aln and data/ppaalns/p0099.aln)!
+Running muscle on data/ga_phylo/p0100.aln and data/ppaalns/p0100.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0100.int.sub.aln generated (from data/ga_phylo/p0100.aln and data/ppaalns/p0100.aln)!
+Running muscle on data/ga_phylo/p0101.aln and data/ppaalns/p0101.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0101.int.sub.aln generated (from data/ga_phylo/p0101.aln and data/ppaalns/p0101.aln)!
+Running muscle on data/ga_phylo/p0102.aln and data/ppaalns/p0102.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0102.int.sub.aln generated (from data/ga_phylo/p0102.aln and data/ppaalns/p0102.aln)!
+Running muscle on data/ga_phylo/p0103.aln and data/ppaalns/p0103.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0103.int.sub.aln generated (from data/ga_phylo/p0103.aln and data/ppaalns/p0103.aln)!
+Running muscle on data/ga_phylo/p0104.aln and data/ppaalns/p0104.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0104.int.sub.aln generated (from data/ga_phylo/p0104.aln and data/ppaalns/p0104.aln)!
+Running muscle on data/ga_phylo/p0105.aln and data/ppaalns/p0105.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0105.int.sub.aln generated (from data/ga_phylo/p0105.aln and data/ppaalns/p0105.aln)!
+Running muscle on data/ga_phylo/p0106.aln and data/ppaalns/p0106.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0106.int.sub.aln generated (from data/ga_phylo/p0106.aln and data/ppaalns/p0106.aln)!
+Running muscle on data/ga_phylo/p0107.aln and data/ppaalns/p0107.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0107.int.sub.aln generated (from data/ga_phylo/p0107.aln and data/ppaalns/p0107.aln)!
+Running muscle on data/ga_phylo/p0108.aln and data/ppaalns/p0108.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0108.int.sub.aln generated (from data/ga_phylo/p0108.aln and data/ppaalns/p0108.aln)!
+Running muscle on data/ga_phylo/p0109.aln and data/ppaalns/p0109.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0109.int.sub.aln generated (from data/ga_phylo/p0109.aln and data/ppaalns/p0109.aln)!
+Running muscle on data/ga_phylo/p0110.aln and data/ppaalns/p0110.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0110.int.sub.aln generated (from data/ga_phylo/p0110.aln and data/ppaalns/p0110.aln)!
+Running muscle on data/ga_phylo/p0111.aln and data/ppaalns/p0111.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0111.int.sub.aln generated (from data/ga_phylo/p0111.aln and data/ppaalns/p0111.aln)!
+Running muscle on data/ga_phylo/p0112.aln and data/ppaalns/p0112.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0112.int.sub.aln generated (from data/ga_phylo/p0112.aln and data/ppaalns/p0112.aln)!
+Running muscle on data/ga_phylo/p0113.aln and data/ppaalns/p0113.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0113.int.sub.aln generated (from data/ga_phylo/p0113.aln and data/ppaalns/p0113.aln)!
+Running muscle on data/ga_phylo/p0114.aln and data/ppaalns/p0114.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0114.int.sub.aln generated (from data/ga_phylo/p0114.aln and data/ppaalns/p0114.aln)!
+Running muscle on data/ga_phylo/p0115.aln and data/ppaalns/p0115.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0115.int.sub.aln generated (from data/ga_phylo/p0115.aln and data/ppaalns/p0115.aln)!
+Running muscle on data/ga_phylo/p0116.aln and data/ppaalns/p0116.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0116.int.sub.aln generated (from data/ga_phylo/p0116.aln and data/ppaalns/p0116.aln)!
+Running muscle on data/ga_phylo/p0117.aln and data/ppaalns/p0117.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0117.int.sub.aln generated (from data/ga_phylo/p0117.aln and data/ppaalns/p0117.aln)!
+Running muscle on data/ga_phylo/p0118.aln and data/ppaalns/p0118.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0118.int.sub.aln generated (from data/ga_phylo/p0118.aln and data/ppaalns/p0118.aln)!
+Running muscle on data/ga_phylo/p0119.aln and data/ppaalns/p0119.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0119.int.sub.aln generated (from data/ga_phylo/p0119.aln and data/ppaalns/p0119.aln)!
+Running muscle on data/ga_phylo/p0120.aln and data/ppaalns/p0120.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0120.int.sub.aln generated (from data/ga_phylo/p0120.aln and data/ppaalns/p0120.aln)!
+Running muscle on data/ga_phylo/p0121.aln and data/ppaalns/p0121.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0121.int.sub.aln generated (from data/ga_phylo/p0121.aln and data/ppaalns/p0121.aln)!
+Running muscle on data/ga_phylo/p0122.aln and data/ppaalns/p0122.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0122.int.sub.aln generated (from data/ga_phylo/p0122.aln and data/ppaalns/p0122.aln)!
+Running muscle on data/ga_phylo/p0123.aln and data/ppaalns/p0123.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0123.int.sub.aln generated (from data/ga_phylo/p0123.aln and data/ppaalns/p0123.aln)!
+Running muscle on data/ga_phylo/p0124.aln and data/ppaalns/p0124.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0124.int.sub.aln generated (from data/ga_phylo/p0124.aln and data/ppaalns/p0124.aln)!
+Running muscle on data/ga_phylo/p0125.aln and data/ppaalns/p0125.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0125.int.sub.aln generated (from data/ga_phylo/p0125.aln and data/ppaalns/p0125.aln)!
+Running muscle on data/ga_phylo/p0126.aln and data/ppaalns/p0126.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0126.int.sub.aln generated (from data/ga_phylo/p0126.aln and data/ppaalns/p0126.aln)!
+Running muscle on data/ga_phylo/p0127.aln and data/ppaalns/p0127.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0127.int.sub.aln generated (from data/ga_phylo/p0127.aln and data/ppaalns/p0127.aln)!
+Running muscle on data/ga_phylo/p0128.aln and data/ppaalns/p0128.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0128.int.sub.aln generated (from data/ga_phylo/p0128.aln and data/ppaalns/p0128.aln)!
+Running muscle on data/ga_phylo/p0129.aln and data/ppaalns/p0129.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0129.int.sub.aln generated (from data/ga_phylo/p0129.aln and data/ppaalns/p0129.aln)!
+Running muscle on data/ga_phylo/p0130.aln and data/ppaalns/p0130.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0130.int.sub.aln generated (from data/ga_phylo/p0130.aln and data/ppaalns/p0130.aln)!
+Running muscle on data/ga_phylo/p0131.aln and data/ppaalns/p0131.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0131.int.sub.aln generated (from data/ga_phylo/p0131.aln and data/ppaalns/p0131.aln)!
+Running muscle on data/ga_phylo/p0132.aln and data/ppaalns/p0132.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0132.int.sub.aln generated (from data/ga_phylo/p0132.aln and data/ppaalns/p0132.aln)!
+Running muscle on data/ga_phylo/p0133.aln and data/ppaalns/p0133.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0133.int.sub.aln generated (from data/ga_phylo/p0133.aln and data/ppaalns/p0133.aln)!
+Running muscle on data/ga_phylo/p0134.aln and data/ppaalns/p0134.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0134.int.sub.aln generated (from data/ga_phylo/p0134.aln and data/ppaalns/p0134.aln)!
+Running muscle on data/ga_phylo/p0135.aln and data/ppaalns/p0135.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0135.int.sub.aln generated (from data/ga_phylo/p0135.aln and data/ppaalns/p0135.aln)!
+Running muscle on data/ga_phylo/p0136.aln and data/ppaalns/p0136.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0136.int.sub.aln generated (from data/ga_phylo/p0136.aln and data/ppaalns/p0136.aln)!
+Running muscle on data/ga_phylo/p0137.aln and data/ppaalns/p0137.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0137.int.sub.aln generated (from data/ga_phylo/p0137.aln and data/ppaalns/p0137.aln)!
+Running muscle on data/ga_phylo/p0138.aln and data/ppaalns/p0138.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0138.int.sub.aln generated (from data/ga_phylo/p0138.aln and data/ppaalns/p0138.aln)!
+Running muscle on data/ga_phylo/p0139.aln and data/ppaalns/p0139.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0139.int.sub.aln generated (from data/ga_phylo/p0139.aln and data/ppaalns/p0139.aln)!
+Running muscle on data/ga_phylo/p0140.aln and data/ppaalns/p0140.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0140.int.sub.aln generated (from data/ga_phylo/p0140.aln and data/ppaalns/p0140.aln)!
+Running muscle on data/ga_phylo/p0141.aln and data/ppaalns/p0141.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0141.int.sub.aln generated (from data/ga_phylo/p0141.aln and data/ppaalns/p0141.aln)!
+Running muscle on data/ga_phylo/p0142.aln and data/ppaalns/p0142.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0142.int.sub.aln generated (from data/ga_phylo/p0142.aln and data/ppaalns/p0142.aln)!
+Running muscle on data/ga_phylo/p0143.aln and data/ppaalns/p0143.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0143.int.sub.aln generated (from data/ga_phylo/p0143.aln and data/ppaalns/p0143.aln)!
+Running muscle on data/ga_phylo/p0144.aln and data/ppaalns/p0144.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0144.int.sub.aln generated (from data/ga_phylo/p0144.aln and data/ppaalns/p0144.aln)!
+Running muscle on data/ga_phylo/p0145.aln and data/ppaalns/p0145.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0145.int.sub.aln generated (from data/ga_phylo/p0145.aln and data/ppaalns/p0145.aln)!
+Running muscle on data/ga_phylo/p0146.aln and data/ppaalns/p0146.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0146.int.sub.aln generated (from data/ga_phylo/p0146.aln and data/ppaalns/p0146.aln)!
+Running muscle on data/ga_phylo/p0147.aln and data/ppaalns/p0147.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0147.int.sub.aln generated (from data/ga_phylo/p0147.aln and data/ppaalns/p0147.aln)!
+Running muscle on data/ga_phylo/p0148.aln and data/ppaalns/p0148.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0148.int.sub.aln generated (from data/ga_phylo/p0148.aln and data/ppaalns/p0148.aln)!
+Running muscle on data/ga_phylo/p0149.aln and data/ppaalns/p0149.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0149.int.sub.aln generated (from data/ga_phylo/p0149.aln and data/ppaalns/p0149.aln)!
+Running muscle on data/ga_phylo/p0150.aln and data/ppaalns/p0150.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0150.int.sub.aln generated (from data/ga_phylo/p0150.aln and data/ppaalns/p0150.aln)!
+Running muscle on data/ga_phylo/p0151.aln and data/ppaalns/p0151.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0151.int.sub.aln generated (from data/ga_phylo/p0151.aln and data/ppaalns/p0151.aln)!
+Running muscle on data/ga_phylo/p0152.aln and data/ppaalns/p0152.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0152.int.sub.aln generated (from data/ga_phylo/p0152.aln and data/ppaalns/p0152.aln)!
+Running muscle on data/ga_phylo/p0153.aln and data/ppaalns/p0153.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0153.int.sub.aln generated (from data/ga_phylo/p0153.aln and data/ppaalns/p0153.aln)!
+Running muscle on data/ga_phylo/p0154.aln and data/ppaalns/p0154.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0154.int.sub.aln generated (from data/ga_phylo/p0154.aln and data/ppaalns/p0154.aln)!
+Running muscle on data/ga_phylo/p0155.aln and data/ppaalns/p0155.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0155.int.sub.aln generated (from data/ga_phylo/p0155.aln and data/ppaalns/p0155.aln)!
+Running muscle on data/ga_phylo/p0156.aln and data/ppaalns/p0156.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0156.int.sub.aln generated (from data/ga_phylo/p0156.aln and data/ppaalns/p0156.aln)!
+Running muscle on data/ga_phylo/p0157.aln and data/ppaalns/p0157.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0157.int.sub.aln generated (from data/ga_phylo/p0157.aln and data/ppaalns/p0157.aln)!
+Running muscle on data/ga_phylo/p0158.aln and data/ppaalns/p0158.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0158.int.sub.aln generated (from data/ga_phylo/p0158.aln and data/ppaalns/p0158.aln)!
+Running muscle on data/ga_phylo/p0159.aln and data/ppaalns/p0159.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0159.int.sub.aln generated (from data/ga_phylo/p0159.aln and data/ppaalns/p0159.aln)!
+Running muscle on data/ga_phylo/p0160.aln and data/ppaalns/p0160.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0160.int.sub.aln generated (from data/ga_phylo/p0160.aln and data/ppaalns/p0160.aln)!
+Running muscle on data/ga_phylo/p0161.aln and data/ppaalns/p0161.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0161.int.sub.aln generated (from data/ga_phylo/p0161.aln and data/ppaalns/p0161.aln)!
+Running muscle on data/ga_phylo/p0162.aln and data/ppaalns/p0162.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0162.int.sub.aln generated (from data/ga_phylo/p0162.aln and data/ppaalns/p0162.aln)!
+Running muscle on data/ga_phylo/p0163.aln and data/ppaalns/p0163.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0163.int.sub.aln generated (from data/ga_phylo/p0163.aln and data/ppaalns/p0163.aln)!
+Running muscle on data/ga_phylo/p0164.aln and data/ppaalns/p0164.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0164.int.sub.aln generated (from data/ga_phylo/p0164.aln and data/ppaalns/p0164.aln)!
+Running muscle on data/ga_phylo/p0165.aln and data/ppaalns/p0165.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0165.int.sub.aln generated (from data/ga_phylo/p0165.aln and data/ppaalns/p0165.aln)!
+Running muscle on data/ga_phylo/p0166.aln and data/ppaalns/p0166.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0166.int.sub.aln generated (from data/ga_phylo/p0166.aln and data/ppaalns/p0166.aln)!
+Running muscle on data/ga_phylo/p0167.aln and data/ppaalns/p0167.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0167.int.sub.aln generated (from data/ga_phylo/p0167.aln and data/ppaalns/p0167.aln)!
+Running muscle on data/ga_phylo/p0168.aln and data/ppaalns/p0168.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0168.int.sub.aln generated (from data/ga_phylo/p0168.aln and data/ppaalns/p0168.aln)!
+Running muscle on data/ga_phylo/p0169.aln and data/ppaalns/p0169.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0169.int.sub.aln generated (from data/ga_phylo/p0169.aln and data/ppaalns/p0169.aln)!
+Running muscle on data/ga_phylo/p0170.aln and data/ppaalns/p0170.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0170.int.sub.aln generated (from data/ga_phylo/p0170.aln and data/ppaalns/p0170.aln)!
+Running muscle on data/ga_phylo/p0171.aln and data/ppaalns/p0171.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0171.int.sub.aln generated (from data/ga_phylo/p0171.aln and data/ppaalns/p0171.aln)!
+Running muscle on data/ga_phylo/p0172.aln and data/ppaalns/p0172.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0172.int.sub.aln generated (from data/ga_phylo/p0172.aln and data/ppaalns/p0172.aln)!
+Running muscle on data/ga_phylo/p0173.aln and data/ppaalns/p0173.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0173.int.sub.aln generated (from data/ga_phylo/p0173.aln and data/ppaalns/p0173.aln)!
+Running muscle on data/ga_phylo/p0174.aln and data/ppaalns/p0174.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0174.int.sub.aln generated (from data/ga_phylo/p0174.aln and data/ppaalns/p0174.aln)!
+Running muscle on data/ga_phylo/p0175.aln and data/ppaalns/p0175.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0175.int.sub.aln generated (from data/ga_phylo/p0175.aln and data/ppaalns/p0175.aln)!
+Running muscle on data/ga_phylo/p0176.aln and data/ppaalns/p0176.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0176.int.sub.aln generated (from data/ga_phylo/p0176.aln and data/ppaalns/p0176.aln)!
+Running muscle on data/ga_phylo/p0177.aln and data/ppaalns/p0177.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0177.int.sub.aln generated (from data/ga_phylo/p0177.aln and data/ppaalns/p0177.aln)!
+Running muscle on data/ga_phylo/p0178.aln and data/ppaalns/p0178.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0178.int.sub.aln generated (from data/ga_phylo/p0178.aln and data/ppaalns/p0178.aln)!
+Running muscle on data/ga_phylo/p0179.aln and data/ppaalns/p0179.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0179.int.sub.aln generated (from data/ga_phylo/p0179.aln and data/ppaalns/p0179.aln)!
+Running muscle on data/ga_phylo/p0180.aln and data/ppaalns/p0180.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0180.int.sub.aln generated (from data/ga_phylo/p0180.aln and data/ppaalns/p0180.aln)!
+Running muscle on data/ga_phylo/p0181.aln and data/ppaalns/p0181.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0181.int.sub.aln generated (from data/ga_phylo/p0181.aln and data/ppaalns/p0181.aln)!
+Running muscle on data/ga_phylo/p0182.aln and data/ppaalns/p0182.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0182.int.sub.aln generated (from data/ga_phylo/p0182.aln and data/ppaalns/p0182.aln)!
+Running muscle on data/ga_phylo/p0183.aln and data/ppaalns/p0183.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0183.int.sub.aln generated (from data/ga_phylo/p0183.aln and data/ppaalns/p0183.aln)!
+Running muscle on data/ga_phylo/p0184.aln and data/ppaalns/p0184.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0184.int.sub.aln generated (from data/ga_phylo/p0184.aln and data/ppaalns/p0184.aln)!
+Running muscle on data/ga_phylo/p0185.aln and data/ppaalns/p0185.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0185.int.sub.aln generated (from data/ga_phylo/p0185.aln and data/ppaalns/p0185.aln)!
+Running muscle on data/ga_phylo/p0186.aln and data/ppaalns/p0186.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0186.int.sub.aln generated (from data/ga_phylo/p0186.aln and data/ppaalns/p0186.aln)!
+Running muscle on data/ga_phylo/p0187.aln and data/ppaalns/p0187.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0187.int.sub.aln generated (from data/ga_phylo/p0187.aln and data/ppaalns/p0187.aln)!
+Running muscle on data/ga_phylo/p0188.aln and data/ppaalns/p0188.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0188.int.sub.aln generated (from data/ga_phylo/p0188.aln and data/ppaalns/p0188.aln)!
+Running muscle on data/ga_phylo/p0189.aln and data/ppaalns/p0189.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0189.int.sub.aln generated (from data/ga_phylo/p0189.aln and data/ppaalns/p0189.aln)!
+Running muscle on data/ga_phylo/p0190.aln and data/ppaalns/p0190.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0190.int.sub.aln generated (from data/ga_phylo/p0190.aln and data/ppaalns/p0190.aln)!
+Running muscle on data/ga_phylo/p0191.aln and data/ppaalns/p0191.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0191.int.sub.aln generated (from data/ga_phylo/p0191.aln and data/ppaalns/p0191.aln)!
+Running muscle on data/ga_phylo/p0192.aln and data/ppaalns/p0192.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0192.int.sub.aln generated (from data/ga_phylo/p0192.aln and data/ppaalns/p0192.aln)!
+Running muscle on data/ga_phylo/p0193.aln and data/ppaalns/p0193.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0193.int.sub.aln generated (from data/ga_phylo/p0193.aln and data/ppaalns/p0193.aln)!
+Running muscle on data/ga_phylo/p0194.aln and data/ppaalns/p0194.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0194.int.sub.aln generated (from data/ga_phylo/p0194.aln and data/ppaalns/p0194.aln)!
+Running muscle on data/ga_phylo/p0195.aln and data/ppaalns/p0195.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0195.int.sub.aln generated (from data/ga_phylo/p0195.aln and data/ppaalns/p0195.aln)!
+Running muscle on data/ga_phylo/p0196.aln and data/ppaalns/p0196.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0196.int.sub.aln generated (from data/ga_phylo/p0196.aln and data/ppaalns/p0196.aln)!
+Running muscle on data/ga_phylo/p0197.aln and data/ppaalns/p0197.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0197.int.sub.aln generated (from data/ga_phylo/p0197.aln and data/ppaalns/p0197.aln)!
+Running muscle on data/ga_phylo/p0198.aln and data/ppaalns/p0198.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0198.int.sub.aln generated (from data/ga_phylo/p0198.aln and data/ppaalns/p0198.aln)!
+Running muscle on data/ga_phylo/p0199.aln and data/ppaalns/p0199.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0199.int.sub.aln generated (from data/ga_phylo/p0199.aln and data/ppaalns/p0199.aln)!
+Running muscle on data/ga_phylo/p0200.aln and data/ppaalns/p0200.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0200.int.sub.aln generated (from data/ga_phylo/p0200.aln and data/ppaalns/p0200.aln)!
+Running muscle on data/ga_phylo/p0201.aln and data/ppaalns/p0201.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0201.int.sub.aln generated (from data/ga_phylo/p0201.aln and data/ppaalns/p0201.aln)!
+Running muscle on data/ga_phylo/p0202.aln and data/ppaalns/p0202.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0202.int.sub.aln generated (from data/ga_phylo/p0202.aln and data/ppaalns/p0202.aln)!
+Running muscle on data/ga_phylo/p0203.aln and data/ppaalns/p0203.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0203.int.sub.aln generated (from data/ga_phylo/p0203.aln and data/ppaalns/p0203.aln)!
+Running muscle on data/ga_phylo/p0204.aln and data/ppaalns/p0204.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0204.int.sub.aln generated (from data/ga_phylo/p0204.aln and data/ppaalns/p0204.aln)!
+Running muscle on data/ga_phylo/p0205.aln and data/ppaalns/p0205.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0205.int.sub.aln generated (from data/ga_phylo/p0205.aln and data/ppaalns/p0205.aln)!
+Running muscle on data/ga_phylo/p0206.aln and data/ppaalns/p0206.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0206.int.sub.aln generated (from data/ga_phylo/p0206.aln and data/ppaalns/p0206.aln)!
+Running muscle on data/ga_phylo/p0207.aln and data/ppaalns/p0207.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0207.int.sub.aln generated (from data/ga_phylo/p0207.aln and data/ppaalns/p0207.aln)!
+Running muscle on data/ga_phylo/p0208.aln and data/ppaalns/p0208.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0208.int.sub.aln generated (from data/ga_phylo/p0208.aln and data/ppaalns/p0208.aln)!
+Running muscle on data/ga_phylo/p0209.aln and data/ppaalns/p0209.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0209.int.sub.aln generated (from data/ga_phylo/p0209.aln and data/ppaalns/p0209.aln)!
+Running muscle on data/ga_phylo/p0210.aln and data/ppaalns/p0210.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0210.int.sub.aln generated (from data/ga_phylo/p0210.aln and data/ppaalns/p0210.aln)!
+Running muscle on data/ga_phylo/p0211.aln and data/ppaalns/p0211.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0211.int.sub.aln generated (from data/ga_phylo/p0211.aln and data/ppaalns/p0211.aln)!
+Running muscle on data/ga_phylo/p0212.aln and data/ppaalns/p0212.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0212.int.sub.aln generated (from data/ga_phylo/p0212.aln and data/ppaalns/p0212.aln)!
+Running muscle on data/ga_phylo/p0213.aln and data/ppaalns/p0213.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0213.int.sub.aln generated (from data/ga_phylo/p0213.aln and data/ppaalns/p0213.aln)!
+Running muscle on data/ga_phylo/p0214.aln and data/ppaalns/p0214.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0214.int.sub.aln generated (from data/ga_phylo/p0214.aln and data/ppaalns/p0214.aln)!
+Running muscle on data/ga_phylo/p0215.aln and data/ppaalns/p0215.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0215.int.sub.aln generated (from data/ga_phylo/p0215.aln and data/ppaalns/p0215.aln)!
+Running muscle on data/ga_phylo/p0216.aln and data/ppaalns/p0216.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0216.int.sub.aln generated (from data/ga_phylo/p0216.aln and data/ppaalns/p0216.aln)!
+Running muscle on data/ga_phylo/p0217.aln and data/ppaalns/p0217.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0217.int.sub.aln generated (from data/ga_phylo/p0217.aln and data/ppaalns/p0217.aln)!
+Running muscle on data/ga_phylo/p0218.aln and data/ppaalns/p0218.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0218.int.sub.aln generated (from data/ga_phylo/p0218.aln and data/ppaalns/p0218.aln)!
+Running muscle on data/ga_phylo/p0219.aln and data/ppaalns/p0219.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0219.int.sub.aln generated (from data/ga_phylo/p0219.aln and data/ppaalns/p0219.aln)!
+Running muscle on data/ga_phylo/p0220.aln and data/ppaalns/p0220.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0220.int.sub.aln generated (from data/ga_phylo/p0220.aln and data/ppaalns/p0220.aln)!
+Running muscle on data/ga_phylo/p0221.aln and data/ppaalns/p0221.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0221.int.sub.aln generated (from data/ga_phylo/p0221.aln and data/ppaalns/p0221.aln)!
+Running muscle on data/ga_phylo/p0222.aln and data/ppaalns/p0222.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0222.int.sub.aln generated (from data/ga_phylo/p0222.aln and data/ppaalns/p0222.aln)!
+Running muscle on data/ga_phylo/p0223.aln and data/ppaalns/p0223.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0223.int.sub.aln generated (from data/ga_phylo/p0223.aln and data/ppaalns/p0223.aln)!
+Running muscle on data/ga_phylo/p0224.aln and data/ppaalns/p0224.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0224.int.sub.aln generated (from data/ga_phylo/p0224.aln and data/ppaalns/p0224.aln)!
+Running muscle on data/ga_phylo/p0225.aln and data/ppaalns/p0225.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0225.int.sub.aln generated (from data/ga_phylo/p0225.aln and data/ppaalns/p0225.aln)!
+Running muscle on data/ga_phylo/p0226.aln and data/ppaalns/p0226.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0226.int.sub.aln generated (from data/ga_phylo/p0226.aln and data/ppaalns/p0226.aln)!
+Running muscle on data/ga_phylo/p0227.aln and data/ppaalns/p0227.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0227.int.sub.aln generated (from data/ga_phylo/p0227.aln and data/ppaalns/p0227.aln)!
+Running muscle on data/ga_phylo/p0228.aln and data/ppaalns/p0228.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0228.int.sub.aln generated (from data/ga_phylo/p0228.aln and data/ppaalns/p0228.aln)!
+Running muscle on data/ga_phylo/p0229.aln and data/ppaalns/p0229.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0229.int.sub.aln generated (from data/ga_phylo/p0229.aln and data/ppaalns/p0229.aln)!
+Running muscle on data/ga_phylo/p0230.aln and data/ppaalns/p0230.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0230.int.sub.aln generated (from data/ga_phylo/p0230.aln and data/ppaalns/p0230.aln)!
+Running muscle on data/ga_phylo/p0231.aln and data/ppaalns/p0231.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0231.int.sub.aln generated (from data/ga_phylo/p0231.aln and data/ppaalns/p0231.aln)!
+Running muscle on data/ga_phylo/p0232.aln and data/ppaalns/p0232.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0232.int.sub.aln generated (from data/ga_phylo/p0232.aln and data/ppaalns/p0232.aln)!
+Running muscle on data/ga_phylo/p0233.aln and data/ppaalns/p0233.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0233.int.sub.aln generated (from data/ga_phylo/p0233.aln and data/ppaalns/p0233.aln)!
+Running muscle on data/ga_phylo/p0234.aln and data/ppaalns/p0234.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0234.int.sub.aln generated (from data/ga_phylo/p0234.aln and data/ppaalns/p0234.aln)!
+Running muscle on data/ga_phylo/p0235.aln and data/ppaalns/p0235.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0235.int.sub.aln generated (from data/ga_phylo/p0235.aln and data/ppaalns/p0235.aln)!
+Running muscle on data/ga_phylo/p0236.aln and data/ppaalns/p0236.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0236.int.sub.aln generated (from data/ga_phylo/p0236.aln and data/ppaalns/p0236.aln)!
+Running muscle on data/ga_phylo/p0237.aln and data/ppaalns/p0237.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0237.int.sub.aln generated (from data/ga_phylo/p0237.aln and data/ppaalns/p0237.aln)!
+Running muscle on data/ga_phylo/p0238.aln and data/ppaalns/p0238.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0238.int.sub.aln generated (from data/ga_phylo/p0238.aln and data/ppaalns/p0238.aln)!
+Running muscle on data/ga_phylo/p0239.aln and data/ppaalns/p0239.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0239.int.sub.aln generated (from data/ga_phylo/p0239.aln and data/ppaalns/p0239.aln)!
+Running muscle on data/ga_phylo/p0240.aln and data/ppaalns/p0240.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0240.int.sub.aln generated (from data/ga_phylo/p0240.aln and data/ppaalns/p0240.aln)!
+Running muscle on data/ga_phylo/p0241.aln and data/ppaalns/p0241.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0241.int.sub.aln generated (from data/ga_phylo/p0241.aln and data/ppaalns/p0241.aln)!
+Running muscle on data/ga_phylo/p0242.aln and data/ppaalns/p0242.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0242.int.sub.aln generated (from data/ga_phylo/p0242.aln and data/ppaalns/p0242.aln)!
+Running muscle on data/ga_phylo/p0243.aln and data/ppaalns/p0243.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0243.int.sub.aln generated (from data/ga_phylo/p0243.aln and data/ppaalns/p0243.aln)!
+Running muscle on data/ga_phylo/p0244.aln and data/ppaalns/p0244.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0244.int.sub.aln generated (from data/ga_phylo/p0244.aln and data/ppaalns/p0244.aln)!
+Running muscle on data/ga_phylo/p0245.aln and data/ppaalns/p0245.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0245.int.sub.aln generated (from data/ga_phylo/p0245.aln and data/ppaalns/p0245.aln)!
+Running muscle on data/ga_phylo/p0246.aln and data/ppaalns/p0246.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0246.int.sub.aln generated (from data/ga_phylo/p0246.aln and data/ppaalns/p0246.aln)!
+Running muscle on data/ga_phylo/p0247.aln and data/ppaalns/p0247.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0247.int.sub.aln generated (from data/ga_phylo/p0247.aln and data/ppaalns/p0247.aln)!
+Running muscle on data/ga_phylo/p0248.aln and data/ppaalns/p0248.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0248.int.sub.aln generated (from data/ga_phylo/p0248.aln and data/ppaalns/p0248.aln)!
+Running muscle on data/ga_phylo/p0249.aln and data/ppaalns/p0249.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0249.int.sub.aln generated (from data/ga_phylo/p0249.aln and data/ppaalns/p0249.aln)!
+Running muscle on data/ga_phylo/p0250.aln and data/ppaalns/p0250.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0250.int.sub.aln generated (from data/ga_phylo/p0250.aln and data/ppaalns/p0250.aln)!
+Running muscle on data/ga_phylo/p0251.aln and data/ppaalns/p0251.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0251.int.sub.aln generated (from data/ga_phylo/p0251.aln and data/ppaalns/p0251.aln)!
+Running muscle on data/ga_phylo/p0252.aln and data/ppaalns/p0252.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0252.int.sub.aln generated (from data/ga_phylo/p0252.aln and data/ppaalns/p0252.aln)!
+Running muscle on data/ga_phylo/p0253.aln and data/ppaalns/p0253.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0253.int.sub.aln generated (from data/ga_phylo/p0253.aln and data/ppaalns/p0253.aln)!
+Running muscle on data/ga_phylo/p0254.aln and data/ppaalns/p0254.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0254.int.sub.aln generated (from data/ga_phylo/p0254.aln and data/ppaalns/p0254.aln)!
+Running muscle on data/ga_phylo/p0255.aln and data/ppaalns/p0255.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0255.int.sub.aln generated (from data/ga_phylo/p0255.aln and data/ppaalns/p0255.aln)!
+Running muscle on data/ga_phylo/p0256.aln and data/ppaalns/p0256.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0256.int.sub.aln generated (from data/ga_phylo/p0256.aln and data/ppaalns/p0256.aln)!
+Running muscle on data/ga_phylo/p0257.aln and data/ppaalns/p0257.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0257.int.sub.aln generated (from data/ga_phylo/p0257.aln and data/ppaalns/p0257.aln)!
+Running muscle on data/ga_phylo/p0258.aln and data/ppaalns/p0258.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0258.int.sub.aln generated (from data/ga_phylo/p0258.aln and data/ppaalns/p0258.aln)!
+Running muscle on data/ga_phylo/p0259.aln and data/ppaalns/p0259.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0259.int.sub.aln generated (from data/ga_phylo/p0259.aln and data/ppaalns/p0259.aln)!
+Running muscle on data/ga_phylo/p0260.aln and data/ppaalns/p0260.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0260.int.sub.aln generated (from data/ga_phylo/p0260.aln and data/ppaalns/p0260.aln)!
+Running muscle on data/ga_phylo/p0261.aln and data/ppaalns/p0261.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0261.int.sub.aln generated (from data/ga_phylo/p0261.aln and data/ppaalns/p0261.aln)!
+Running muscle on data/ga_phylo/p0262.aln and data/ppaalns/p0262.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0262.int.sub.aln generated (from data/ga_phylo/p0262.aln and data/ppaalns/p0262.aln)!
+Running muscle on data/ga_phylo/p0263.aln and data/ppaalns/p0263.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0263.int.sub.aln generated (from data/ga_phylo/p0263.aln and data/ppaalns/p0263.aln)!
+Running muscle on data/ga_phylo/p0264.aln and data/ppaalns/p0264.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0264.int.sub.aln generated (from data/ga_phylo/p0264.aln and data/ppaalns/p0264.aln)!
+Running muscle on data/ga_phylo/p0265.aln and data/ppaalns/p0265.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0265.int.sub.aln generated (from data/ga_phylo/p0265.aln and data/ppaalns/p0265.aln)!
+Running muscle on data/ga_phylo/p0266.aln and data/ppaalns/p0266.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0266.int.sub.aln generated (from data/ga_phylo/p0266.aln and data/ppaalns/p0266.aln)!
+Running muscle on data/ga_phylo/p0267.aln and data/ppaalns/p0267.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0267.int.sub.aln generated (from data/ga_phylo/p0267.aln and data/ppaalns/p0267.aln)!
+Running muscle on data/ga_phylo/p0268.aln and data/ppaalns/p0268.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0268.int.sub.aln generated (from data/ga_phylo/p0268.aln and data/ppaalns/p0268.aln)!
+Running muscle on data/ga_phylo/p0269.aln and data/ppaalns/p0269.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0269.int.sub.aln generated (from data/ga_phylo/p0269.aln and data/ppaalns/p0269.aln)!
+Running muscle on data/ga_phylo/p0270.aln and data/ppaalns/p0270.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0270.int.sub.aln generated (from data/ga_phylo/p0270.aln and data/ppaalns/p0270.aln)!
+Running muscle on data/ga_phylo/p0271.aln and data/ppaalns/p0271.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0271.int.sub.aln generated (from data/ga_phylo/p0271.aln and data/ppaalns/p0271.aln)!
+Running muscle on data/ga_phylo/p0272.aln and data/ppaalns/p0272.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0272.int.sub.aln generated (from data/ga_phylo/p0272.aln and data/ppaalns/p0272.aln)!
+Running muscle on data/ga_phylo/p0273.aln and data/ppaalns/p0273.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0273.int.sub.aln generated (from data/ga_phylo/p0273.aln and data/ppaalns/p0273.aln)!
+Running muscle on data/ga_phylo/p0274.aln and data/ppaalns/p0274.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0274.int.sub.aln generated (from data/ga_phylo/p0274.aln and data/ppaalns/p0274.aln)!
+Running muscle on data/ga_phylo/p0275.aln and data/ppaalns/p0275.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0275.int.sub.aln generated (from data/ga_phylo/p0275.aln and data/ppaalns/p0275.aln)!
+Running muscle on data/ga_phylo/p0276.aln and data/ppaalns/p0276.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0276.int.sub.aln generated (from data/ga_phylo/p0276.aln and data/ppaalns/p0276.aln)!
+Running muscle on data/ga_phylo/p0277.aln and data/ppaalns/p0277.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0277.int.sub.aln generated (from data/ga_phylo/p0277.aln and data/ppaalns/p0277.aln)!
+Running muscle on data/ga_phylo/p0278.aln and data/ppaalns/p0278.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0278.int.sub.aln generated (from data/ga_phylo/p0278.aln and data/ppaalns/p0278.aln)!
+Running muscle on data/ga_phylo/p0279.aln and data/ppaalns/p0279.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0279.int.sub.aln generated (from data/ga_phylo/p0279.aln and data/ppaalns/p0279.aln)!
+Running muscle on data/ga_phylo/p0280.aln and data/ppaalns/p0280.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0280.int.sub.aln generated (from data/ga_phylo/p0280.aln and data/ppaalns/p0280.aln)!
+Running muscle on data/ga_phylo/p0281.aln and data/ppaalns/p0281.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0281.int.sub.aln generated (from data/ga_phylo/p0281.aln and data/ppaalns/p0281.aln)!
+Running muscle on data/ga_phylo/p0282.aln and data/ppaalns/p0282.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0282.int.sub.aln generated (from data/ga_phylo/p0282.aln and data/ppaalns/p0282.aln)!
+Running muscle on data/ga_phylo/p0283.aln and data/ppaalns/p0283.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0283.int.sub.aln generated (from data/ga_phylo/p0283.aln and data/ppaalns/p0283.aln)!
+Running muscle on data/ga_phylo/p0284.aln and data/ppaalns/p0284.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0284.int.sub.aln generated (from data/ga_phylo/p0284.aln and data/ppaalns/p0284.aln)!
+Running muscle on data/ga_phylo/p0285.aln and data/ppaalns/p0285.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0285.int.sub.aln generated (from data/ga_phylo/p0285.aln and data/ppaalns/p0285.aln)!
+Running muscle on data/ga_phylo/p0286.aln and data/ppaalns/p0286.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0286.int.sub.aln generated (from data/ga_phylo/p0286.aln and data/ppaalns/p0286.aln)!
+Running muscle on data/ga_phylo/p0287.aln and data/ppaalns/p0287.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0287.int.sub.aln generated (from data/ga_phylo/p0287.aln and data/ppaalns/p0287.aln)!
+Running muscle on data/ga_phylo/p0288.aln and data/ppaalns/p0288.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0288.int.sub.aln generated (from data/ga_phylo/p0288.aln and data/ppaalns/p0288.aln)!
+Running muscle on data/ga_phylo/p0289.aln and data/ppaalns/p0289.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0289.int.sub.aln generated (from data/ga_phylo/p0289.aln and data/ppaalns/p0289.aln)!
+Running muscle on data/ga_phylo/p0290.aln and data/ppaalns/p0290.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0290.int.sub.aln generated (from data/ga_phylo/p0290.aln and data/ppaalns/p0290.aln)!
+Running muscle on data/ga_phylo/p0291.aln and data/ppaalns/p0291.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0291.int.sub.aln generated (from data/ga_phylo/p0291.aln and data/ppaalns/p0291.aln)!
+Running muscle on data/ga_phylo/p0292.aln and data/ppaalns/p0292.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0292.int.sub.aln generated (from data/ga_phylo/p0292.aln and data/ppaalns/p0292.aln)!
+Running muscle on data/ga_phylo/p0293.aln and data/ppaalns/p0293.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0293.int.sub.aln generated (from data/ga_phylo/p0293.aln and data/ppaalns/p0293.aln)!
+Running muscle on data/ga_phylo/p0294.aln and data/ppaalns/p0294.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0294.int.sub.aln generated (from data/ga_phylo/p0294.aln and data/ppaalns/p0294.aln)!
+Running muscle on data/ga_phylo/p0295.aln and data/ppaalns/p0295.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0295.int.sub.aln generated (from data/ga_phylo/p0295.aln and data/ppaalns/p0295.aln)!
+Running muscle on data/ga_phylo/p0297.aln and data/ppaalns/p0297.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0297.int.sub.aln generated (from data/ga_phylo/p0297.aln and data/ppaalns/p0297.aln)!
+Running muscle on data/ga_phylo/p0298.aln and data/ppaalns/p0298.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0298.int.sub.aln generated (from data/ga_phylo/p0298.aln and data/ppaalns/p0298.aln)!
+Running muscle on data/ga_phylo/p0299.aln and data/ppaalns/p0299.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0299.int.sub.aln generated (from data/ga_phylo/p0299.aln and data/ppaalns/p0299.aln)!
+Running muscle on data/ga_phylo/p0300.aln and data/ppaalns/p0300.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0300.int.sub.aln generated (from data/ga_phylo/p0300.aln and data/ppaalns/p0300.aln)!
+Running muscle on data/ga_phylo/p0301.aln and data/ppaalns/p0301.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0301.int.sub.aln generated (from data/ga_phylo/p0301.aln and data/ppaalns/p0301.aln)!
+Running muscle on data/ga_phylo/p0302.aln and data/ppaalns/p0302.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0302.int.sub.aln generated (from data/ga_phylo/p0302.aln and data/ppaalns/p0302.aln)!
+Running muscle on data/ga_phylo/p0303.aln and data/ppaalns/p0303.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0303.int.sub.aln generated (from data/ga_phylo/p0303.aln and data/ppaalns/p0303.aln)!
+Running muscle on data/ga_phylo/p0304.aln and data/ppaalns/p0304.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0304.int.sub.aln generated (from data/ga_phylo/p0304.aln and data/ppaalns/p0304.aln)!
+Running muscle on data/ga_phylo/p0305.aln and data/ppaalns/p0305.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0305.int.sub.aln generated (from data/ga_phylo/p0305.aln and data/ppaalns/p0305.aln)!
+Running muscle on data/ga_phylo/p0306.aln and data/ppaalns/p0306.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0306.int.sub.aln generated (from data/ga_phylo/p0306.aln and data/ppaalns/p0306.aln)!
+Running muscle on data/ga_phylo/p0307.aln and data/ppaalns/p0307.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0307.int.sub.aln generated (from data/ga_phylo/p0307.aln and data/ppaalns/p0307.aln)!
+Running muscle on data/ga_phylo/p0308.aln and data/ppaalns/p0308.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0308.int.sub.aln generated (from data/ga_phylo/p0308.aln and data/ppaalns/p0308.aln)!
+Running muscle on data/ga_phylo/p0309.aln and data/ppaalns/p0309.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0309.int.sub.aln generated (from data/ga_phylo/p0309.aln and data/ppaalns/p0309.aln)!
+Running muscle on data/ga_phylo/p0310.aln and data/ppaalns/p0310.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0310.int.sub.aln generated (from data/ga_phylo/p0310.aln and data/ppaalns/p0310.aln)!
+Running muscle on data/ga_phylo/p0311.aln and data/ppaalns/p0311.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0311.int.sub.aln generated (from data/ga_phylo/p0311.aln and data/ppaalns/p0311.aln)!
+Running muscle on data/ga_phylo/p0312.aln and data/ppaalns/p0312.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0312.int.sub.aln generated (from data/ga_phylo/p0312.aln and data/ppaalns/p0312.aln)!
+Running muscle on data/ga_phylo/p0313.aln and data/ppaalns/p0313.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0313.int.sub.aln generated (from data/ga_phylo/p0313.aln and data/ppaalns/p0313.aln)!
+Running muscle on data/ga_phylo/p0315.aln and data/ppaalns/p0315.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0315.int.sub.aln generated (from data/ga_phylo/p0315.aln and data/ppaalns/p0315.aln)!
+Running muscle on data/ga_phylo/p0316.aln and data/ppaalns/p0316.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0316.int.sub.aln generated (from data/ga_phylo/p0316.aln and data/ppaalns/p0316.aln)!
+Running muscle on data/ga_phylo/p0317.aln and data/ppaalns/p0317.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0317.int.sub.aln generated (from data/ga_phylo/p0317.aln and data/ppaalns/p0317.aln)!
+Running muscle on data/ga_phylo/p0318.aln and data/ppaalns/p0318.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0318.int.sub.aln generated (from data/ga_phylo/p0318.aln and data/ppaalns/p0318.aln)!
+Running muscle on data/ga_phylo/p0319.aln and data/ppaalns/p0319.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0319.int.sub.aln generated (from data/ga_phylo/p0319.aln and data/ppaalns/p0319.aln)!
+Running muscle on data/ga_phylo/p0320.aln and data/ppaalns/p0320.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0320.int.sub.aln generated (from data/ga_phylo/p0320.aln and data/ppaalns/p0320.aln)!
+Running muscle on data/ga_phylo/p0321.aln and data/ppaalns/p0321.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0321.int.sub.aln generated (from data/ga_phylo/p0321.aln and data/ppaalns/p0321.aln)!
+Running muscle on data/ga_phylo/p0322.aln and data/ppaalns/p0322.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0322.int.sub.aln generated (from data/ga_phylo/p0322.aln and data/ppaalns/p0322.aln)!
+Running muscle on data/ga_phylo/p0323.aln and data/ppaalns/p0323.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0323.int.sub.aln generated (from data/ga_phylo/p0323.aln and data/ppaalns/p0323.aln)!
+Running muscle on data/ga_phylo/p0324.aln and data/ppaalns/p0324.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0324.int.sub.aln generated (from data/ga_phylo/p0324.aln and data/ppaalns/p0324.aln)!
+Running muscle on data/ga_phylo/p0325.aln and data/ppaalns/p0325.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0325.int.sub.aln generated (from data/ga_phylo/p0325.aln and data/ppaalns/p0325.aln)!
+Running muscle on data/ga_phylo/p0326.aln and data/ppaalns/p0326.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0326.int.sub.aln generated (from data/ga_phylo/p0326.aln and data/ppaalns/p0326.aln)!
+Running muscle on data/ga_phylo/p0327.aln and data/ppaalns/p0327.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0327.int.sub.aln generated (from data/ga_phylo/p0327.aln and data/ppaalns/p0327.aln)!
+Running muscle on data/ga_phylo/p0328.aln and data/ppaalns/p0328.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0328.int.sub.aln generated (from data/ga_phylo/p0328.aln and data/ppaalns/p0328.aln)!
+Running muscle on data/ga_phylo/p0329.aln and data/ppaalns/p0329.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0329.int.sub.aln generated (from data/ga_phylo/p0329.aln and data/ppaalns/p0329.aln)!
+Running muscle on data/ga_phylo/p0330.aln and data/ppaalns/p0330.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0330.int.sub.aln generated (from data/ga_phylo/p0330.aln and data/ppaalns/p0330.aln)!
+Running muscle on data/ga_phylo/p0331.aln and data/ppaalns/p0331.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0331.int.sub.aln generated (from data/ga_phylo/p0331.aln and data/ppaalns/p0331.aln)!
+Running muscle on data/ga_phylo/p0332.aln and data/ppaalns/p0332.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0332.int.sub.aln generated (from data/ga_phylo/p0332.aln and data/ppaalns/p0332.aln)!
+Running muscle on data/ga_phylo/p0333.aln and data/ppaalns/p0333.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0333.int.sub.aln generated (from data/ga_phylo/p0333.aln and data/ppaalns/p0333.aln)!
+Running muscle on data/ga_phylo/p0334.aln and data/ppaalns/p0334.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0334.int.sub.aln generated (from data/ga_phylo/p0334.aln and data/ppaalns/p0334.aln)!
+Running muscle on data/ga_phylo/p0335.aln and data/ppaalns/p0335.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0335.int.sub.aln generated (from data/ga_phylo/p0335.aln and data/ppaalns/p0335.aln)!
+Running muscle on data/ga_phylo/p0336.aln and data/ppaalns/p0336.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0336.int.sub.aln generated (from data/ga_phylo/p0336.aln and data/ppaalns/p0336.aln)!
+Running muscle on data/ga_phylo/p0337.aln and data/ppaalns/p0337.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0337.int.sub.aln generated (from data/ga_phylo/p0337.aln and data/ppaalns/p0337.aln)!
+Running muscle on data/ga_phylo/p0338.aln and data/ppaalns/p0338.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0338.int.sub.aln generated (from data/ga_phylo/p0338.aln and data/ppaalns/p0338.aln)!
+Running muscle on data/ga_phylo/p0339.aln and data/ppaalns/p0339.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0339.int.sub.aln generated (from data/ga_phylo/p0339.aln and data/ppaalns/p0339.aln)!
+Running muscle on data/ga_phylo/p0340.aln and data/ppaalns/p0340.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0340.int.sub.aln generated (from data/ga_phylo/p0340.aln and data/ppaalns/p0340.aln)!
+Running muscle on data/ga_phylo/p0341.aln and data/ppaalns/p0341.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0341.int.sub.aln generated (from data/ga_phylo/p0341.aln and data/ppaalns/p0341.aln)!
+Running muscle on data/ga_phylo/p0342.aln and data/ppaalns/p0342.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0342.int.sub.aln generated (from data/ga_phylo/p0342.aln and data/ppaalns/p0342.aln)!
+Running muscle on data/ga_phylo/p0343.aln and data/ppaalns/p0343.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0343.int.sub.aln generated (from data/ga_phylo/p0343.aln and data/ppaalns/p0343.aln)!
+Running muscle on data/ga_phylo/p0344.aln and data/ppaalns/p0344.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0344.int.sub.aln generated (from data/ga_phylo/p0344.aln and data/ppaalns/p0344.aln)!
+Running muscle on data/ga_phylo/p0345.aln and data/ppaalns/p0345.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0345.int.sub.aln generated (from data/ga_phylo/p0345.aln and data/ppaalns/p0345.aln)!
+Running muscle on data/ga_phylo/p0346.aln and data/ppaalns/p0346.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0346.int.sub.aln generated (from data/ga_phylo/p0346.aln and data/ppaalns/p0346.aln)!
+Running muscle on data/ga_phylo/p0347.aln and data/ppaalns/p0347.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0347.int.sub.aln generated (from data/ga_phylo/p0347.aln and data/ppaalns/p0347.aln)!
+Running muscle on data/ga_phylo/p0349.aln and data/ppaalns/p0349.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0349.int.sub.aln generated (from data/ga_phylo/p0349.aln and data/ppaalns/p0349.aln)!
+Running muscle on data/ga_phylo/p0350.aln and data/ppaalns/p0350.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0350.int.sub.aln generated (from data/ga_phylo/p0350.aln and data/ppaalns/p0350.aln)!
+Running muscle on data/ga_phylo/p0351.aln and data/ppaalns/p0351.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0351.int.sub.aln generated (from data/ga_phylo/p0351.aln and data/ppaalns/p0351.aln)!
+Running muscle on data/ga_phylo/p0352.aln and data/ppaalns/p0352.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0352.int.sub.aln generated (from data/ga_phylo/p0352.aln and data/ppaalns/p0352.aln)!
+Running muscle on data/ga_phylo/p0353.aln and data/ppaalns/p0353.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0353.int.sub.aln generated (from data/ga_phylo/p0353.aln and data/ppaalns/p0353.aln)!
+Running muscle on data/ga_phylo/p0354.aln and data/ppaalns/p0354.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0354.int.sub.aln generated (from data/ga_phylo/p0354.aln and data/ppaalns/p0354.aln)!
+Running muscle on data/ga_phylo/p0355.aln and data/ppaalns/p0355.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0355.int.sub.aln generated (from data/ga_phylo/p0355.aln and data/ppaalns/p0355.aln)!
+Running muscle on data/ga_phylo/p0356.aln and data/ppaalns/p0356.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0356.int.sub.aln generated (from data/ga_phylo/p0356.aln and data/ppaalns/p0356.aln)!
+Running muscle on data/ga_phylo/p0357.aln and data/ppaalns/p0357.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0357.int.sub.aln generated (from data/ga_phylo/p0357.aln and data/ppaalns/p0357.aln)!
+Running muscle on data/ga_phylo/p0358.aln and data/ppaalns/p0358.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0358.int.sub.aln generated (from data/ga_phylo/p0358.aln and data/ppaalns/p0358.aln)!
+Running muscle on data/ga_phylo/p0359.aln and data/ppaalns/p0359.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0359.int.sub.aln generated (from data/ga_phylo/p0359.aln and data/ppaalns/p0359.aln)!
+Running muscle on data/ga_phylo/p0360.aln and data/ppaalns/p0360.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0360.int.sub.aln generated (from data/ga_phylo/p0360.aln and data/ppaalns/p0360.aln)!
+Running muscle on data/ga_phylo/p0361.aln and data/ppaalns/p0361.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0361.int.sub.aln generated (from data/ga_phylo/p0361.aln and data/ppaalns/p0361.aln)!
+Running muscle on data/ga_phylo/p0362.aln and data/ppaalns/p0362.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0362.int.sub.aln generated (from data/ga_phylo/p0362.aln and data/ppaalns/p0362.aln)!
+Running muscle on data/ga_phylo/p0363.aln and data/ppaalns/p0363.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0363.int.sub.aln generated (from data/ga_phylo/p0363.aln and data/ppaalns/p0363.aln)!
+Running muscle on data/ga_phylo/p0364.aln and data/ppaalns/p0364.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0364.int.sub.aln generated (from data/ga_phylo/p0364.aln and data/ppaalns/p0364.aln)!
+Running muscle on data/ga_phylo/p0365.aln and data/ppaalns/p0365.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0365.int.sub.aln generated (from data/ga_phylo/p0365.aln and data/ppaalns/p0365.aln)!
+Running muscle on data/ga_phylo/p0366.aln and data/ppaalns/p0366.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0366.int.sub.aln generated (from data/ga_phylo/p0366.aln and data/ppaalns/p0366.aln)!
+Running muscle on data/ga_phylo/p0367.aln and data/ppaalns/p0367.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0367.int.sub.aln generated (from data/ga_phylo/p0367.aln and data/ppaalns/p0367.aln)!
+Running muscle on data/ga_phylo/p0368.aln and data/ppaalns/p0368.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0368.int.sub.aln generated (from data/ga_phylo/p0368.aln and data/ppaalns/p0368.aln)!
+Running muscle on data/ga_phylo/p0369.aln and data/ppaalns/p0369.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0369.int.sub.aln generated (from data/ga_phylo/p0369.aln and data/ppaalns/p0369.aln)!
+Running muscle on data/ga_phylo/p0370.aln and data/ppaalns/p0370.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0370.int.sub.aln generated (from data/ga_phylo/p0370.aln and data/ppaalns/p0370.aln)!
+Running muscle on data/ga_phylo/p0371.aln and data/ppaalns/p0371.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0371.int.sub.aln generated (from data/ga_phylo/p0371.aln and data/ppaalns/p0371.aln)!
+Running muscle on data/ga_phylo/p0373.aln and data/ppaalns/p0373.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0373.int.sub.aln generated (from data/ga_phylo/p0373.aln and data/ppaalns/p0373.aln)!
+Running muscle on data/ga_phylo/p0374.aln and data/ppaalns/p0374.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0374.int.sub.aln generated (from data/ga_phylo/p0374.aln and data/ppaalns/p0374.aln)!
+Running muscle on data/ga_phylo/p0375.aln and data/ppaalns/p0375.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0375.int.sub.aln generated (from data/ga_phylo/p0375.aln and data/ppaalns/p0375.aln)!
+Running muscle on data/ga_phylo/p0376.aln and data/ppaalns/p0376.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0376.int.sub.aln generated (from data/ga_phylo/p0376.aln and data/ppaalns/p0376.aln)!
+Running muscle on data/ga_phylo/p0377.aln and data/ppaalns/p0377.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0377.int.sub.aln generated (from data/ga_phylo/p0377.aln and data/ppaalns/p0377.aln)!
+Running muscle on data/ga_phylo/p0378.aln and data/ppaalns/p0378.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0378.int.sub.aln generated (from data/ga_phylo/p0378.aln and data/ppaalns/p0378.aln)!
+Running muscle on data/ga_phylo/p0379.aln and data/ppaalns/p0379.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0379.int.sub.aln generated (from data/ga_phylo/p0379.aln and data/ppaalns/p0379.aln)!
+Running muscle on data/ga_phylo/p0380.aln and data/ppaalns/p0380.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0380.int.sub.aln generated (from data/ga_phylo/p0380.aln and data/ppaalns/p0380.aln)!
+Running muscle on data/ga_phylo/p0381.aln and data/ppaalns/p0381.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0381.int.sub.aln generated (from data/ga_phylo/p0381.aln and data/ppaalns/p0381.aln)!
+Running muscle on data/ga_phylo/p0382.aln and data/ppaalns/p0382.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0382.int.sub.aln generated (from data/ga_phylo/p0382.aln and data/ppaalns/p0382.aln)!
+Running muscle on data/ga_phylo/p0383.aln and data/ppaalns/p0383.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0383.int.sub.aln generated (from data/ga_phylo/p0383.aln and data/ppaalns/p0383.aln)!
+Running muscle on data/ga_phylo/p0384.aln and data/ppaalns/p0384.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0384.int.sub.aln generated (from data/ga_phylo/p0384.aln and data/ppaalns/p0384.aln)!
+Running muscle on data/ga_phylo/p0385.aln and data/ppaalns/p0385.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0385.int.sub.aln generated (from data/ga_phylo/p0385.aln and data/ppaalns/p0385.aln)!
+Running muscle on data/ga_phylo/p0386.aln and data/ppaalns/p0386.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0386.int.sub.aln generated (from data/ga_phylo/p0386.aln and data/ppaalns/p0386.aln)!
+Running muscle on data/ga_phylo/p0387.aln and data/ppaalns/p0387.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0387.int.sub.aln generated (from data/ga_phylo/p0387.aln and data/ppaalns/p0387.aln)!
+Running muscle on data/ga_phylo/p0390.aln and data/ppaalns/p0390.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0390.int.sub.aln generated (from data/ga_phylo/p0390.aln and data/ppaalns/p0390.aln)!
+Running muscle on data/ga_phylo/p0392.aln and data/ppaalns/p0392.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0392.int.sub.aln generated (from data/ga_phylo/p0392.aln and data/ppaalns/p0392.aln)!
+Running muscle on data/ga_phylo/p0393.aln and data/ppaalns/p0393.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0393.int.sub.aln generated (from data/ga_phylo/p0393.aln and data/ppaalns/p0393.aln)!
+Running muscle on data/ga_phylo/p0394.aln and data/ppaalns/p0394.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0394.int.sub.aln generated (from data/ga_phylo/p0394.aln and data/ppaalns/p0394.aln)!
+Running muscle on data/ga_phylo/p0396.aln and data/ppaalns/p0396.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0396.int.sub.aln generated (from data/ga_phylo/p0396.aln and data/ppaalns/p0396.aln)!
+Running muscle on data/ga_phylo/p0397.aln and data/ppaalns/p0397.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0397.int.sub.aln generated (from data/ga_phylo/p0397.aln and data/ppaalns/p0397.aln)!
+Running muscle on data/ga_phylo/p0398.aln and data/ppaalns/p0398.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0398.int.sub.aln generated (from data/ga_phylo/p0398.aln and data/ppaalns/p0398.aln)!
+Running muscle on data/ga_phylo/p0399.aln and data/ppaalns/p0399.aln...
+
+*** WARNING *** Assuming DNA (see -seqtype option), invalid letters found: EFILPQ
+data/ga_phylo/p0399.int.sub.aln generated (from data/ga_phylo/p0399.aln and data/ppaalns/p0399.aln)!
+All alignments already merged with PhyloPhlAn alignments!
+All alignments already computed!
+Aligning finished in 26679 secs (26679 total time).
+
+All alignments merged into data/ga_phylo/aln.int.fna!
+Start building the tree with FastTree ... 
+FastTree Version 2.1.10 SSE3
+Alignment: standard input
+Amino acid distances: BLOSUM45 Joins: weighted Support: SH-like 1000
+Search: Normal +NNI +SPR (4 rounds range 10) +ML-NNI opt-each=2
+TopHits: 1.00*sqrtN close=default refresh=0.80
+ML Model: Jones-Taylor-Thorton, CAT approximation with 20 rate categories
+Ignored unknown character B (seen 1 times)
+Ignored unknown character X (seen 97 times)
+      1.52 seconds: Top hits for    405 of   3167 seqs (at seed    100)
+      2.16 seconds: Top hits for    637 of   3167 seqs (at seed    200)
+      2.47 seconds: Top hits for    732 of   3167 seqs (at seed    300)
+      2.80 seconds: Top hits for    834 of   3167 seqs (at seed    400)
+      3.14 seconds: Top hits for    895 of   3167 seqs (at seed    500)
+      3.52 seconds: Top hits for   1027 of   3167 seqs (at seed    600)
+      3.95 seconds: Top hits for   1190 of   3167 seqs (at seed    700)
+      4.42 seconds: Top hits for   1345 of   3167 seqs (at seed    800)
+      4.70 seconds: Top hits for   1477 of   3167 seqs (at seed    900)
+      5.03 seconds: Top hits for   1622 of   3167 seqs (at seed   1000)
+      5.44 seconds: Top hits for   1767 of   3167 seqs (at seed   1100)
+      5.99 seconds: Top hits for   1905 of   3167 seqs (at seed   1200)
+      6.20 seconds: Top hits for   2019 of   3167 seqs (at seed   1300)
+      6.40 seconds: Top hits for   2093 of   3167 seqs (at seed   1400)
+      6.55 seconds: Top hits for   2131 of   3167 seqs (at seed   1500)
+      6.82 seconds: Top hits for   2213 of   3167 seqs (at seed   1600)
+      6.98 seconds: Top hits for   2229 of   3167 seqs (at seed   1700)
+      7.55 seconds: Top hits for   2445 of   3167 seqs (at seed   1800)
+      7.75 seconds: Top hits for   2495 of   3167 seqs (at seed   1900)
+      8.10 seconds: Top hits for   2597 of   3167 seqs (at seed   2000)
+      8.35 seconds: Top hits for   2681 of   3167 seqs (at seed   2100)
+      8.46 seconds: Top hits for   2696 of   3167 seqs (at seed   2200)
+      8.56 seconds: Top hits for   2714 of   3167 seqs (at seed   2300)
+      8.75 seconds: Top hits for   2739 of   3167 seqs (at seed   2400)
+      8.98 seconds: Top hits for   2801 of   3167 seqs (at seed   2500)
+      9.33 seconds: Top hits for   2869 of   3167 seqs (at seed   2600)
+      9.43 seconds: Top hits for   2873 of   3167 seqs (at seed   2700)
+      9.72 seconds: Top hits for   2922 of   3167 seqs (at seed   2800)
+      9.95 seconds: Top hits for   2967 of   3167 seqs (at seed   2900)
+     10.33 seconds: Top hits for   3083 of   3167 seqs (at seed   3000)
+     10.60 seconds: Top hits for   3124 of   3167 seqs (at seed   3100)
+     10.77 seconds: Checking top hits for      1 of   3167 seqs
+     12.14 seconds: Joined    100 of   3164
+     13.61 seconds: Joined    200 of   3164
+     15.22 seconds: Joined    300 of   3164
+     18.09 seconds: Joined    400 of   3164
+     19.52 seconds: Joined    500 of   3164
+     21.48 seconds: Joined    600 of   3164
+     23.04 seconds: Joined    700 of   3164
+     24.45 seconds: Joined    800 of   3164
+     26.35 seconds: Joined    900 of   3164
+     28.17 seconds: Joined   1000 of   3164
+     29.86 seconds: Joined   1100 of   3164
+     31.70 seconds: Joined   1200 of   3164
+     33.00 seconds: Joined   1300 of   3164
+     35.05 seconds: Joined   1400 of   3164
+     36.40 seconds: Joined   1500 of   3164
+     38.24 seconds: Joined   1600 of   3164
+     40.04 seconds: Joined   1700 of   3164
+     41.69 seconds: Joined   1800 of   3164
+     43.26 seconds: Joined   1900 of   3164
+     44.96 seconds: Joined   2000 of   3164
+     46.45 seconds: Joined   2100 of   3164
+     47.89 seconds: Joined   2200 of   3164
+     49.29 seconds: Joined   2300 of   3164
+     51.11 seconds: Joined   2400 of   3164
+     52.76 seconds: Joined   2500 of   3164
+     54.97 seconds: Joined   2600 of   3164
+     56.12 seconds: Joined   2700 of   3164
+     57.41 seconds: Joined   2800 of   3164
+     58.66 seconds: Joined   2900 of   3164
+     59.66 seconds: Joined   3000 of   3164
+     60.43 seconds: Joined   3100 of   3164
+Initial topology in 60.77 seconds
+Refining topology: 47 rounds ME-NNIs, 4 rounds ME-SPRs, 23 rounds ML-NNIs
+     60.75 seconds: ME NNI round 1 of 47, 1 of 3165 splits
+     60.88 seconds: ME NNI round 1 of 47, 101 of 3165 splits, 16 changes (max delta 0.002)
+     61.00 seconds: ME NNI round 1 of 47, 201 of 3165 splits, 45 changes (max delta 0.004)
+     61.13 seconds: ME NNI round 1 of 47, 301 of 3165 splits, 72 changes (max delta 0.014)
+     61.25 seconds: ME NNI round 1 of 47, 401 of 3165 splits, 88 changes (max delta 0.014)
+     61.37 seconds: ME NNI round 1 of 47, 501 of 3165 splits, 123 changes (max delta 0.017)
+     61.51 seconds: ME NNI round 1 of 47, 601 of 3165 splits, 145 changes (max delta 0.017)
+     61.63 seconds: ME NNI round 1 of 47, 701 of 3165 splits, 166 changes (max delta 0.017)
+     61.74 seconds: ME NNI round 1 of 47, 801 of 3165 splits, 187 changes (max delta 0.017)
+     61.87 seconds: ME NNI round 1 of 47, 901 of 3165 splits, 200 changes (max delta 0.017)
+     62.00 seconds: ME NNI round 1 of 47, 1001 of 3165 splits, 229 changes (max delta 0.017)
+     62.12 seconds: ME NNI round 1 of 47, 1101 of 3165 splits, 249 changes (max delta 0.019)
+     62.25 seconds: ME NNI round 1 of 47, 1201 of 3165 splits, 263 changes (max delta 0.019)
+     62.37 seconds: ME NNI round 1 of 47, 1301 of 3165 splits, 291 changes (max delta 0.021)
+     62.50 seconds: ME NNI round 1 of 47, 1401 of 3165 splits, 314 changes (max delta 0.021)
+     62.70 seconds: ME NNI round 1 of 47, 1601 of 3165 splits, 349 changes (max delta 0.175)
+     62.83 seconds: ME NNI round 1 of 47, 1701 of 3165 splits, 376 changes (max delta 0.175)
+     62.96 seconds: ME NNI round 1 of 47, 1801 of 3165 splits, 397 changes (max delta 0.175)
+     63.08 seconds: ME NNI round 1 of 47, 1901 of 3165 splits, 416 changes (max delta 0.175)
+     63.19 seconds: ME NNI round 1 of 47, 2001 of 3165 splits, 432 changes (max delta 0.175)
+     63.30 seconds: ME NNI round 1 of 47, 2101 of 3165 splits, 447 changes (max delta 0.175)
+     63.42 seconds: ME NNI round 1 of 47, 2201 of 3165 splits, 464 changes (max delta 0.175)
+     63.55 seconds: ME NNI round 1 of 47, 2301 of 3165 splits, 481 changes (max delta 0.175)
+     63.67 seconds: ME NNI round 1 of 47, 2401 of 3165 splits, 514 changes (max delta 0.175)
+     63.80 seconds: ME NNI round 1 of 47, 2501 of 3165 splits, 548 changes (max delta 0.175)
+     63.94 seconds: ME NNI round 1 of 47, 2601 of 3165 splits, 586 changes (max delta 0.175)
+     64.08 seconds: ME NNI round 1 of 47, 2701 of 3165 splits, 633 changes (max delta 0.175)
+     64.23 seconds: ME NNI round 1 of 47, 2801 of 3165 splits, 668 changes (max delta 0.175)
+     64.34 seconds: ME NNI round 1 of 47, 2901 of 3165 splits, 691 changes (max delta 0.175)
+     64.48 seconds: ME NNI round 1 of 47, 3001 of 3165 splits, 708 changes (max delta 0.175)
+     64.60 seconds: ME NNI round 1 of 47, 3101 of 3165 splits, 734 changes (max delta 0.175)
+     64.77 seconds: ME NNI round 2 of 47, 101 of 3165 splits, 13 changes (max delta 0.003)
+     64.89 seconds: ME NNI round 2 of 47, 201 of 3165 splits, 31 changes (max delta 0.003)
+     65.00 seconds: ME NNI round 2 of 47, 301 of 3165 splits, 44 changes (max delta 0.012)
+     65.11 seconds: ME NNI round 2 of 47, 401 of 3165 splits, 56 changes (max delta 0.012)
+     65.23 seconds: ME NNI round 2 of 47, 501 of 3165 splits, 75 changes (max delta 0.012)
+     65.34 seconds: ME NNI round 2 of 47, 601 of 3165 splits, 88 changes (max delta 0.017)
+     65.45 seconds: ME NNI round 2 of 47, 701 of 3165 splits, 92 changes (max delta 0.017)
+     65.56 seconds: ME NNI round 2 of 47, 801 of 3165 splits, 98 changes (max delta 0.017)
+     65.68 seconds: ME NNI round 2 of 47, 901 of 3165 splits, 119 changes (max delta 0.030)
+     65.81 seconds: ME NNI round 2 of 47, 1001 of 3165 splits, 143 changes (max delta 0.030)
+     65.94 seconds: ME NNI round 2 of 47, 1101 of 3165 splits, 184 changes (max delta 0.030)
+     66.04 seconds: ME NNI round 2 of 47, 1201 of 3165 splits, 199 changes (max delta 0.030)
+     66.16 seconds: ME NNI round 2 of 47, 1301 of 3165 splits, 220 changes (max delta 0.030)
+     66.27 seconds: ME NNI round 2 of 47, 1401 of 3165 splits, 241 changes (max delta 0.030)
+     66.39 seconds: ME NNI round 2 of 47, 1501 of 3165 splits, 252 changes (max delta 0.030)
+     66.50 seconds: ME NNI round 2 of 47, 1601 of 3165 splits, 257 changes (max delta 0.030)
+     66.61 seconds: ME NNI round 2 of 47, 1701 of 3165 splits, 265 changes (max delta 0.030)
+     66.81 seconds: ME NNI round 2 of 47, 1901 of 3165 splits, 280 changes (max delta 0.030)
+     67.00 seconds: ME NNI round 2 of 47, 2101 of 3165 splits, 304 changes (max delta 0.390)
+     67.12 seconds: ME NNI round 2 of 47, 2201 of 3165 splits, 316 changes (max delta 0.390)
+     67.24 seconds: ME NNI round 2 of 47, 2301 of 3165 splits, 336 changes (max delta 0.390)
+     67.35 seconds: ME NNI round 2 of 47, 2401 of 3165 splits, 344 changes (max delta 0.390)
+     67.47 seconds: ME NNI round 2 of 47, 2501 of 3165 splits, 356 changes (max delta 0.390)
+     67.57 seconds: ME NNI round 2 of 47, 2601 of 3165 splits, 367 changes (max delta 0.390)
+     67.68 seconds: ME NNI round 2 of 47, 2701 of 3165 splits, 375 changes (max delta 0.390)
+     67.79 seconds: ME NNI round 2 of 47, 2801 of 3165 splits, 382 changes (max delta 0.390)
+     67.91 seconds: ME NNI round 2 of 47, 2901 of 3165 splits, 400 changes (max delta 0.390)
+     68.02 seconds: ME NNI round 2 of 47, 3001 of 3165 splits, 414 changes (max delta 0.390)
+     68.18 seconds: ME NNI round 3 of 47, 1 of 3165 splits
+     68.29 seconds: ME NNI round 3 of 47, 101 of 3165 splits, 6 changes (max delta 0.002)
+     68.50 seconds: ME NNI round 3 of 47, 301 of 3165 splits, 22 changes (max delta 0.008)
+     68.60 seconds: ME NNI round 3 of 47, 401 of 3165 splits, 28 changes (max delta 0.008)
+     68.71 seconds: ME NNI round 3 of 47, 501 of 3165 splits, 34 changes (max delta 0.008)
+     68.91 seconds: ME NNI round 3 of 47, 701 of 3165 splits, 37 changes (max delta 0.008)
+     69.02 seconds: ME NNI round 3 of 47, 801 of 3165 splits, 44 changes (max delta 0.008)
+     69.13 seconds: ME NNI round 3 of 47, 901 of 3165 splits, 63 changes (max delta 0.008)
+     69.33 seconds: ME NNI round 3 of 47, 1101 of 3165 splits, 89 changes (max delta 0.009)
+     69.45 seconds: ME NNI round 3 of 47, 1201 of 3165 splits, 112 changes (max delta 0.009)
+     69.56 seconds: ME NNI round 3 of 47, 1301 of 3165 splits, 127 changes (max delta 0.009)
+     69.76 seconds: ME NNI round 3 of 47, 1501 of 3165 splits, 138 changes (max delta 0.009)
+     69.87 seconds: ME NNI round 3 of 47, 1601 of 3165 splits, 142 changes (max delta 0.009)
+     69.97 seconds: ME NNI round 3 of 47, 1701 of 3165 splits, 146 changes (max delta 0.009)
+     70.17 seconds: ME NNI round 3 of 47, 1901 of 3165 splits, 160 changes (max delta 0.012)
+     70.27 seconds: ME NNI round 3 of 47, 2001 of 3165 splits, 165 changes (max delta 0.112)
+     70.45 seconds: ME NNI round 3 of 47, 2201 of 3165 splits, 175 changes (max delta 0.112)
+     70.57 seconds: ME NNI round 3 of 47, 2301 of 3165 splits, 192 changes (max delta 0.112)
+     70.77 seconds: ME NNI round 3 of 47, 2501 of 3165 splits, 200 changes (max delta 0.112)
+     70.97 seconds: ME NNI round 3 of 47, 2701 of 3165 splits, 209 changes (max delta 0.112)
+     71.08 seconds: ME NNI round 3 of 47, 2801 of 3165 splits, 220 changes (max delta 0.112)
+     71.19 seconds: ME NNI round 3 of 47, 2901 of 3165 splits, 228 changes (max delta 0.112)
+     71.29 seconds: ME NNI round 3 of 47, 3001 of 3165 splits, 234 changes (max delta 0.112)
+     71.44 seconds: ME NNI round 4 of 47, 1 of 3165 splits
+     71.54 seconds: ME NNI round 4 of 47, 101 of 3165 splits, 3 changes (max delta 0.000)
+     71.73 seconds: ME NNI round 4 of 47, 301 of 3165 splits, 7 changes (max delta 0.005)
+     71.84 seconds: ME NNI round 4 of 47, 401 of 3165 splits, 7 changes (max delta 0.005)
+     71.95 seconds: ME NNI round 4 of 47, 501 of 3165 splits, 16 changes (max delta 0.005)
+     72.05 seconds: ME NNI round 4 of 47, 601 of 3165 splits, 18 changes (max delta 0.005)
+     72.24 seconds: ME NNI round 4 of 47, 801 of 3165 splits, 21 changes (max delta 0.005)
+     72.36 seconds: ME NNI round 4 of 47, 901 of 3165 splits, 35 changes (max delta 0.018)
+     72.46 seconds: ME NNI round 4 of 47, 1001 of 3165 splits, 35 changes (max delta 0.018)
+     72.56 seconds: ME NNI round 4 of 47, 1101 of 3165 splits, 37 changes (max delta 0.018)
+     72.68 seconds: ME NNI round 4 of 47, 1201 of 3165 splits, 49 changes (max delta 0.018)
+     72.80 seconds: ME NNI round 4 of 47, 1301 of 3165 splits, 61 changes (max delta 0.019)
+     72.90 seconds: ME NNI round 4 of 47, 1401 of 3165 splits, 70 changes (max delta 0.019)
+     73.00 seconds: ME NNI round 4 of 47, 1501 of 3165 splits, 74 changes (max delta 0.019)
+     73.21 seconds: ME NNI round 4 of 47, 1701 of 3165 splits, 103 changes (max delta 0.019)
+     73.32 seconds: ME NNI round 4 of 47, 1801 of 3165 splits, 104 changes (max delta 0.019)
+     73.42 seconds: ME NNI round 4 of 47, 1901 of 3165 splits, 106 changes (max delta 0.019)
+     73.61 seconds: ME NNI round 4 of 47, 2101 of 3165 splits, 108 changes (max delta 0.019)
+     73.71 seconds: ME NNI round 4 of 47, 2201 of 3165 splits, 113 changes (max delta 0.019)
+     73.81 seconds: ME NNI round 4 of 47, 2301 of 3165 splits, 114 changes (max delta 0.019)
+     73.98 seconds: ME NNI round 4 of 47, 2501 of 3165 splits, 119 changes (max delta 0.019)
+     74.10 seconds: ME NNI round 4 of 47, 2601 of 3165 splits, 128 changes (max delta 0.019)
+     74.30 seconds: ME NNI round 4 of 47, 2801 of 3165 splits, 132 changes (max delta 0.019)
+     74.49 seconds: ME NNI round 4 of 47, 3001 of 3165 splits, 138 changes (max delta 0.019)
+     74.64 seconds: ME NNI round 5 of 47, 1 of 3165 splits
+     74.84 seconds: ME NNI round 5 of 47, 201 of 3165 splits, 5 changes (max delta 0.000)
+     75.05 seconds: ME NNI round 5 of 47, 401 of 3165 splits, 11 changes (max delta 0.004)
+     75.15 seconds: ME NNI round 5 of 47, 501 of 3165 splits, 14 changes (max delta 0.004)
+     75.34 seconds: ME NNI round 5 of 47, 701 of 3165 splits, 14 changes (max delta 0.004)
+     75.45 seconds: ME NNI round 5 of 47, 801 of 3165 splits, 18 changes (max delta 0.004)
+     75.55 seconds: ME NNI round 5 of 47, 901 of 3165 splits, 20 changes (max delta 0.023)
+     75.66 seconds: ME NNI round 5 of 47, 1001 of 3165 splits, 20 changes (max delta 0.023)
+     75.77 seconds: ME NNI round 5 of 47, 1101 of 3165 splits, 22 changes (max delta 0.023)
+     75.88 seconds: ME NNI round 5 of 47, 1201 of 3165 splits, 34 changes (max delta 0.030)
+     75.99 seconds: ME NNI round 5 of 47, 1301 of 3165 splits, 38 changes (max delta 0.030)
+     76.09 seconds: ME NNI round 5 of 47, 1401 of 3165 splits, 46 changes (max delta 0.030)
+     76.20 seconds: ME NNI round 5 of 47, 1501 of 3165 splits, 57 changes (max delta 0.030)
+     76.31 seconds: ME NNI round 5 of 47, 1601 of 3165 splits, 65 changes (max delta 0.030)
+     76.52 seconds: ME NNI round 5 of 47, 1801 of 3165 splits, 71 changes (max delta 0.030)
+     76.62 seconds: ME NNI round 5 of 47, 1901 of 3165 splits, 74 changes (max delta 0.030)
+     76.81 seconds: ME NNI round 5 of 47, 2101 of 3165 splits, 75 changes (max delta 0.030)
+     77.00 seconds: ME NNI round 5 of 47, 2301 of 3165 splits, 76 changes (max delta 0.030)
+     77.19 seconds: ME NNI round 5 of 47, 2501 of 3165 splits, 81 changes (max delta 0.030)
+     77.31 seconds: ME NNI round 5 of 47, 2601 of 3165 splits, 91 changes (max delta 0.030)
+     77.51 seconds: ME NNI round 5 of 47, 2801 of 3165 splits, 94 changes (max delta 0.030)
+     77.70 seconds: ME NNI round 5 of 47, 3001 of 3165 splits, 99 changes (max delta 0.030)
+     77.86 seconds: ME NNI round 6 of 47, 1 of 3165 splits
+     78.06 seconds: ME NNI round 6 of 47, 201 of 3165 splits, 1 changes (max delta 0.000)
+     78.26 seconds: ME NNI round 6 of 47, 401 of 3165 splits, 5 changes (max delta 0.008)
+     78.45 seconds: ME NNI round 6 of 47, 601 of 3165 splits, 6 changes (max delta 0.008)
+     78.55 seconds: ME NNI round 6 of 47, 701 of 3165 splits, 7 changes (max delta 0.019)
+     78.76 seconds: ME NNI round 6 of 47, 901 of 3165 splits, 7 changes (max delta 0.019)
+     78.87 seconds: ME NNI round 6 of 47, 1001 of 3165 splits, 14 changes (max delta 0.019)
+     79.06 seconds: ME NNI round 6 of 47, 1201 of 3165 splits, 18 changes (max delta 0.019)
+     79.18 seconds: ME NNI round 6 of 47, 1301 of 3165 splits, 30 changes (max delta 0.019)
+     79.29 seconds: ME NNI round 6 of 47, 1401 of 3165 splits, 39 changes (max delta 0.019)
+     79.39 seconds: ME NNI round 6 of 47, 1501 of 3165 splits, 44 changes (max delta 0.019)
+     79.50 seconds: ME NNI round 6 of 47, 1601 of 3165 splits, 44 changes (max delta 0.019)
+     79.69 seconds: ME NNI round 6 of 47, 1801 of 3165 splits, 47 changes (max delta 0.019)
+     79.88 seconds: ME NNI round 6 of 47, 2001 of 3165 splits, 47 changes (max delta 0.019)
+     80.05 seconds: ME NNI round 6 of 47, 2201 of 3165 splits, 47 changes (max delta 0.019)
+     80.16 seconds: ME NNI round 6 of 47, 2301 of 3165 splits, 50 changes (max delta 0.019)
+     80.27 seconds: ME NNI round 6 of 47, 2401 of 3165 splits, 55 changes (max delta 0.019)
+     80.47 seconds: ME NNI round 6 of 47, 2601 of 3165 splits, 60 changes (max delta 0.019)
+     80.66 seconds: ME NNI round 6 of 47, 2801 of 3165 splits, 62 changes (max delta 0.019)
+     80.85 seconds: ME NNI round 6 of 47, 3001 of 3165 splits, 66 changes (max delta 0.019)
+     81.00 seconds: ME NNI round 7 of 47, 1 of 3165 splits
+     81.19 seconds: ME NNI round 7 of 47, 201 of 3165 splits, 0 changes
+     81.39 seconds: ME NNI round 7 of 47, 401 of 3165 splits, 4 changes (max delta 0.002)
+     81.58 seconds: ME NNI round 7 of 47, 601 of 3165 splits, 6 changes (max delta 0.002)
+     81.69 seconds: ME NNI round 7 of 47, 701 of 3165 splits, 6 changes (max delta 0.002)
+     81.88 seconds: ME NNI round 7 of 47, 901 of 3165 splits, 7 changes (max delta 0.002)
+     81.98 seconds: ME NNI round 7 of 47, 1001 of 3165 splits, 8 changes (max delta 0.002)
+     82.09 seconds: ME NNI round 7 of 47, 1101 of 3165 splits, 12 changes (max delta 0.004)
+     82.19 seconds: ME NNI round 7 of 47, 1201 of 3165 splits, 19 changes (max delta 0.004)
+     82.29 seconds: ME NNI round 7 of 47, 1301 of 3165 splits, 20 changes (max delta 0.004)
+     82.50 seconds: ME NNI round 7 of 47, 1501 of 3165 splits, 27 changes (max delta 0.004)
+     82.69 seconds: ME NNI round 7 of 47, 1701 of 3165 splits, 28 changes (max delta 0.004)
+     82.88 seconds: ME NNI round 7 of 47, 1901 of 3165 splits, 29 changes (max delta 0.004)
+     82.98 seconds: ME NNI round 7 of 47, 2001 of 3165 splits, 29 changes (max delta 0.004)
+     83.17 seconds: ME NNI round 7 of 47, 2201 of 3165 splits, 29 changes (max delta 0.004)
+     83.36 seconds: ME NNI round 7 of 47, 2401 of 3165 splits, 32 changes (max delta 0.004)
+     83.56 seconds: ME NNI round 7 of 47, 2601 of 3165 splits, 37 changes (max delta 0.004)
+     83.66 seconds: ME NNI round 7 of 47, 2701 of 3165 splits, 37 changes (max delta 0.004)
+     83.86 seconds: ME NNI round 7 of 47, 2901 of 3165 splits, 37 changes (max delta 0.004)
+     84.05 seconds: ME NNI round 7 of 47, 3101 of 3165 splits, 40 changes (max delta 0.004)
+     84.20 seconds: ME NNI round 8 of 47, 101 of 3165 splits, 0 changes
+     84.39 seconds: ME NNI round 8 of 47, 301 of 3165 splits, 1 changes (max delta 0.000)
+     84.49 seconds: ME NNI round 8 of 47, 401 of 3165 splits, 1 changes (max delta 0.000)
+     84.68 seconds: ME NNI round 8 of 47, 601 of 3165 splits, 2 changes (max delta 0.000)
+     84.87 seconds: ME NNI round 8 of 47, 801 of 3165 splits, 2 changes (max delta 0.000)
+     85.07 seconds: ME NNI round 8 of 47, 1001 of 3165 splits, 4 changes (max delta 0.002)
+     85.26 seconds: ME NNI round 8 of 47, 1201 of 3165 splits, 9 changes (max delta 0.004)
+     85.45 seconds: ME NNI round 8 of 47, 1401 of 3165 splits, 11 changes (max delta 0.004)
+     85.55 seconds: ME NNI round 8 of 47, 1501 of 3165 splits, 17 changes (max delta 0.004)
+     85.74 seconds: ME NNI round 8 of 47, 1701 of 3165 splits, 17 changes (max delta 0.004)
+     85.92 seconds: ME NNI round 8 of 47, 1901 of 3165 splits, 17 changes (max delta 0.004)
+     86.11 seconds: ME NNI round 8 of 47, 2101 of 3165 splits, 17 changes (max delta 0.004)
+     86.27 seconds: ME NNI round 8 of 47, 2301 of 3165 splits, 17 changes (max delta 0.004)
+     86.39 seconds: ME NNI round 8 of 47, 2401 of 3165 splits, 19 changes (max delta 0.004)
+     86.57 seconds: ME NNI round 8 of 47, 2601 of 3165 splits, 20 changes (max delta 0.004)
+     86.67 seconds: ME NNI round 8 of 47, 2701 of 3165 splits, 20 changes (max delta 0.004)
+     86.87 seconds: ME NNI round 8 of 47, 2901 of 3165 splits, 20 changes (max delta 0.004)
+     87.06 seconds: ME NNI round 8 of 47, 3101 of 3165 splits, 21 changes (max delta 0.004)
+     87.21 seconds: ME NNI round 9 of 47, 101 of 3165 splits, 0 changes
+     87.39 seconds: ME NNI round 9 of 47, 301 of 3165 splits, 0 changes
+     87.50 seconds: ME NNI round 9 of 47, 401 of 3165 splits, 0 changes
+     87.69 seconds: ME NNI round 9 of 47, 601 of 3165 splits, 0 changes
+     87.79 seconds: ME NNI round 9 of 47, 701 of 3165 splits, 0 changes
+     87.98 seconds: ME NNI round 9 of 47, 901 of 3165 splits, 0 changes
+     88.09 seconds: ME NNI round 9 of 47, 1001 of 3165 splits, 0 changes
+     88.28 seconds: ME NNI round 9 of 47, 1201 of 3165 splits, 1 changes (max delta 0.000)
+     88.48 seconds: ME NNI round 9 of 47, 1401 of 3165 splits, 1 changes (max delta 0.000)
+     88.58 seconds: ME NNI round 9 of 47, 1501 of 3165 splits, 6 changes (max delta 0.001)
+     88.78 seconds: ME NNI round 9 of 47, 1701 of 3165 splits, 6 changes (max delta 0.001)
+     88.96 seconds: ME NNI round 9 of 47, 1901 of 3165 splits, 6 changes (max delta 0.001)
+     89.06 seconds: ME NNI round 9 of 47, 2001 of 3165 splits, 6 changes (max delta 0.001)
+     89.25 seconds: ME NNI round 9 of 47, 2201 of 3165 splits, 6 changes (max delta 0.001)
+     89.45 seconds: ME NNI round 9 of 47, 2401 of 3165 splits, 6 changes (max delta 0.001)
+     89.63 seconds: ME NNI round 9 of 47, 2601 of 3165 splits, 6 changes (max delta 0.001)
+     89.74 seconds: ME NNI round 9 of 47, 2701 of 3165 splits, 6 changes (max delta 0.001)
+     89.93 seconds: ME NNI round 9 of 47, 2901 of 3165 splits, 6 changes (max delta 0.001)
+     90.12 seconds: ME NNI round 9 of 47, 3101 of 3165 splits, 6 changes (max delta 0.001)
+     92.54 seconds: SPR round   1 of   4, 101 of 6332 nodes
+     95.23 seconds: SPR round   1 of   4, 201 of 6332 nodes
+     98.07 seconds: SPR round   1 of   4, 301 of 6332 nodes
+    100.87 seconds: SPR round   1 of   4, 401 of 6332 nodes
+    103.35 seconds: SPR round   1 of   4, 501 of 6332 nodes
+    106.14 seconds: SPR round   1 of   4, 601 of 6332 nodes
+    109.04 seconds: SPR round   1 of   4, 701 of 6332 nodes
+    111.67 seconds: SPR round   1 of   4, 801 of 6332 nodes
+    114.59 seconds: SPR round   1 of   4, 901 of 6332 nodes
+    117.25 seconds: SPR round   1 of   4, 1001 of 6332 nodes
+    120.40 seconds: SPR round   1 of   4, 1101 of 6332 nodes
+    123.12 seconds: SPR round   1 of   4, 1201 of 6332 nodes
+    126.22 seconds: SPR round   1 of   4, 1301 of 6332 nodes
+    129.03 seconds: SPR round   1 of   4, 1401 of 6332 nodes
+    132.18 seconds: SPR round   1 of   4, 1501 of 6332 nodes
+    134.86 seconds: SPR round   1 of   4, 1601 of 6332 nodes
+    137.84 seconds: SPR round   1 of   4, 1701 of 6332 nodes
+    140.83 seconds: SPR round   1 of   4, 1801 of 6332 nodes
+    144.28 seconds: SPR round   1 of   4, 1901 of 6332 nodes
+    147.30 seconds: SPR round   1 of   4, 2001 of 6332 nodes
+    149.87 seconds: SPR round   1 of   4, 2101 of 6332 nodes
+    152.64 seconds: SPR round   1 of   4, 2201 of 6332 nodes
+    156.14 seconds: SPR round   1 of   4, 2301 of 6332 nodes
+    158.22 seconds: SPR round   1 of   4, 2401 of 6332 nodes
+    160.99 seconds: SPR round   1 of   4, 2501 of 6332 nodes
+    163.58 seconds: SPR round   1 of   4, 2601 of 6332 nodes
+    166.23 seconds: SPR round   1 of   4, 2701 of 6332 nodes
+    169.44 seconds: SPR round   1 of   4, 2801 of 6332 nodes
+    172.10 seconds: SPR round   1 of   4, 2901 of 6332 nodes
+    175.42 seconds: SPR round   1 of   4, 3001 of 6332 nodes
+    178.66 seconds: SPR round   1 of   4, 3101 of 6332 nodes
+    181.37 seconds: SPR round   1 of   4, 3201 of 6332 nodes
+    184.21 seconds: SPR round   1 of   4, 3301 of 6332 nodes
+    187.08 seconds: SPR round   1 of   4, 3401 of 6332 nodes
+    189.95 seconds: SPR round   1 of   4, 3501 of 6332 nodes
+    192.38 seconds: SPR round   1 of   4, 3601 of 6332 nodes
+    195.33 seconds: SPR round   1 of   4, 3701 of 6332 nodes
+    197.54 seconds: SPR round   1 of   4, 3801 of 6332 nodes
+    200.78 seconds: SPR round   1 of   4, 3901 of 6332 nodes
+    203.28 seconds: SPR round   1 of   4, 4001 of 6332 nodes
+    205.98 seconds: SPR round   1 of   4, 4101 of 6332 nodes
+    209.02 seconds: SPR round   1 of   4, 4201 of 6332 nodes
+    212.10 seconds: SPR round   1 of   4, 4301 of 6332 nodes
+    215.19 seconds: SPR round   1 of   4, 4401 of 6332 nodes
+    217.59 seconds: SPR round   1 of   4, 4501 of 6332 nodes
+    220.19 seconds: SPR round   1 of   4, 4601 of 6332 nodes
+    222.98 seconds: SPR round   1 of   4, 4701 of 6332 nodes
+    225.65 seconds: SPR round   1 of   4, 4801 of 6332 nodes
+    228.70 seconds: SPR round   1 of   4, 4901 of 6332 nodes
+    231.91 seconds: SPR round   1 of   4, 5001 of 6332 nodes
+    234.74 seconds: SPR round   1 of   4, 5101 of 6332 nodes
+    238.41 seconds: SPR round   1 of   4, 5201 of 6332 nodes
+    241.45 seconds: SPR round   1 of   4, 5301 of 6332 nodes
+    244.97 seconds: SPR round   1 of   4, 5401 of 6332 nodes
+    248.04 seconds: SPR round   1 of   4, 5501 of 6332 nodes
+    251.01 seconds: SPR round   1 of   4, 5601 of 6332 nodes
+    253.64 seconds: SPR round   1 of   4, 5701 of 6332 nodes
+    256.10 seconds: SPR round   1 of   4, 5801 of 6332 nodes
+    259.12 seconds: SPR round   1 of   4, 5901 of 6332 nodes
+    262.14 seconds: SPR round   1 of   4, 6001 of 6332 nodes
+    265.32 seconds: SPR round   1 of   4, 6101 of 6332 nodes
+    268.13 seconds: SPR round   1 of   4, 6201 of 6332 nodes
+    271.21 seconds: SPR round   1 of   4, 6301 of 6332 nodes
+    271.79 seconds: ME NNI round 10 of 47, 1 of 3165 splits
+    271.99 seconds: ME NNI round 10 of 47, 201 of 3165 splits, 4 changes (max delta 0.000)
+    272.09 seconds: ME NNI round 10 of 47, 301 of 3165 splits, 5 changes (max delta 0.000)
+    272.29 seconds: ME NNI round 10 of 47, 501 of 3165 splits, 5 changes (max delta 0.000)
+    272.40 seconds: ME NNI round 10 of 47, 601 of 3165 splits, 6 changes (max delta 0.000)
+    272.50 seconds: ME NNI round 10 of 47, 701 of 3165 splits, 7 changes (max delta 0.000)
+    272.62 seconds: ME NNI round 10 of 47, 801 of 3165 splits, 8 changes (max delta 0.000)
+    272.72 seconds: ME NNI round 10 of 47, 901 of 3165 splits, 9 changes (max delta 0.001)
+    272.82 seconds: ME NNI round 10 of 47, 1001 of 3165 splits, 10 changes (max delta 0.001)
+    272.93 seconds: ME NNI round 10 of 47, 1101 of 3165 splits, 10 changes (max delta 0.001)
+    273.12 seconds: ME NNI round 10 of 47, 1301 of 3165 splits, 15 changes (max delta 0.001)
+    273.32 seconds: ME NNI round 10 of 47, 1501 of 3165 splits, 20 changes (max delta 0.001)
+    273.51 seconds: ME NNI round 10 of 47, 1701 of 3165 splits, 20 changes (max delta 0.001)
+    273.69 seconds: ME NNI round 10 of 47, 1901 of 3165 splits, 21 changes (max delta 0.001)
+    273.85 seconds: ME NNI round 10 of 47, 2101 of 3165 splits, 21 changes (max delta 0.001)
+    273.96 seconds: ME NNI round 10 of 47, 2201 of 3165 splits, 22 changes (max delta 0.001)
+    274.15 seconds: ME NNI round 10 of 47, 2401 of 3165 splits, 24 changes (max delta 0.001)
+    274.33 seconds: ME NNI round 10 of 47, 2601 of 3165 splits, 27 changes (max delta 0.001)
+    274.51 seconds: ME NNI round 10 of 47, 2801 of 3165 splits, 29 changes (max delta 0.004)
+    274.68 seconds: ME NNI round 10 of 47, 3001 of 3165 splits, 30 changes (max delta 0.004)
+    274.82 seconds: ME NNI round 11 of 47, 1 of 3165 splits
+    275.00 seconds: ME NNI round 11 of 47, 201 of 3165 splits, 2 changes (max delta 0.000)
+    275.18 seconds: ME NNI round 11 of 47, 401 of 3165 splits, 2 changes (max delta 0.000)
+    275.37 seconds: ME NNI round 11 of 47, 601 of 3165 splits, 2 changes (max delta 0.000)
+    275.47 seconds: ME NNI round 11 of 47, 701 of 3165 splits, 2 changes (max delta 0.000)
+    275.63 seconds: ME NNI round 11 of 47, 901 of 3165 splits, 2 changes (max delta 0.000)
+    275.82 seconds: ME NNI round 11 of 47, 1101 of 3165 splits, 3 changes (max delta 0.000)
+    276.01 seconds: ME NNI round 11 of 47, 1301 of 3165 splits, 3 changes (max delta 0.000)
+    276.18 seconds: ME NNI round 11 of 47, 1501 of 3165 splits, 3 changes (max delta 0.000)
+    276.28 seconds: ME NNI round 11 of 47, 1601 of 3165 splits, 3 changes (max delta 0.000)
+    276.47 seconds: ME NNI round 11 of 47, 1801 of 3165 splits, 4 changes (max delta 0.001)
+    276.64 seconds: ME NNI round 11 of 47, 2001 of 3165 splits, 4 changes (max delta 0.001)
+    276.82 seconds: ME NNI round 11 of 47, 2201 of 3165 splits, 7 changes (max delta 0.001)
+    277.01 seconds: ME NNI round 11 of 47, 2401 of 3165 splits, 7 changes (max delta 0.001)
+    277.18 seconds: ME NNI round 11 of 47, 2601 of 3165 splits, 8 changes (max delta 0.001)
+    277.37 seconds: ME NNI round 11 of 47, 2801 of 3165 splits, 10 changes (max delta 0.002)
+    277.54 seconds: ME NNI round 11 of 47, 3001 of 3165 splits, 10 changes (max delta 0.002)
+    277.68 seconds: ME NNI round 12 of 47, 1 of 3165 splits
+    277.86 seconds: ME NNI round 12 of 47, 201 of 3165 splits, 2 changes (max delta 0.000)
+    278.04 seconds: ME NNI round 12 of 47, 401 of 3165 splits, 2 changes (max delta 0.000)
+    278.23 seconds: ME NNI round 12 of 47, 601 of 3165 splits, 2 changes (max delta 0.000)
+    278.33 seconds: ME NNI round 12 of 47, 701 of 3165 splits, 2 changes (max delta 0.000)
+    278.49 seconds: ME NNI round 12 of 47, 901 of 3165 splits, 2 changes (max delta 0.000)
+    278.68 seconds: ME NNI round 12 of 47, 1101 of 3165 splits, 2 changes (max delta 0.000)
+    278.86 seconds: ME NNI round 12 of 47, 1301 of 3165 splits, 2 changes (max delta 0.000)
+    279.04 seconds: ME NNI round 12 of 47, 1501 of 3165 splits, 2 changes (max delta 0.000)
+    279.23 seconds: ME NNI round 12 of 47, 1701 of 3165 splits, 4 changes (max delta 0.001)
+    279.42 seconds: ME NNI round 12 of 47, 1901 of 3165 splits, 4 changes (max delta 0.001)
+    279.60 seconds: ME NNI round 12 of 47, 2101 of 3165 splits, 4 changes (max delta 0.001)
+    279.78 seconds: ME NNI round 12 of 47, 2301 of 3165 splits, 4 changes (max delta 0.001)
+    279.95 seconds: ME NNI round 12 of 47, 2501 of 3165 splits, 4 changes (max delta 0.001)
+    280.13 seconds: ME NNI round 12 of 47, 2701 of 3165 splits, 4 changes (max delta 0.001)
+    280.31 seconds: ME NNI round 12 of 47, 2901 of 3165 splits, 4 changes (max delta 0.001)
+    280.48 seconds: ME NNI round 12 of 47, 3101 of 3165 splits, 7 changes (max delta 0.001)
+    280.62 seconds: ME NNI round 13 of 47, 101 of 3165 splits, 0 changes
+    280.80 seconds: ME NNI round 13 of 47, 301 of 3165 splits, 0 changes
+    280.98 seconds: ME NNI round 13 of 47, 501 of 3165 splits, 0 changes
+    281.18 seconds: ME NNI round 13 of 47, 701 of 3165 splits, 0 changes
+    281.34 seconds: ME NNI round 13 of 47, 901 of 3165 splits, 0 changes
+    281.53 seconds: ME NNI round 13 of 47, 1101 of 3165 splits, 0 changes
+    281.71 seconds: ME NNI round 13 of 47, 1301 of 3165 splits, 0 changes
+    281.89 seconds: ME NNI round 13 of 47, 1501 of 3165 splits, 0 changes
+    282.08 seconds: ME NNI round 13 of 47, 1701 of 3165 splits, 2 changes (max delta 0.000)
+    282.26 seconds: ME NNI round 13 of 47, 1901 of 3165 splits, 2 changes (max delta 0.000)
+    282.44 seconds: ME NNI round 13 of 47, 2101 of 3165 splits, 2 changes (max delta 0.000)
+    282.63 seconds: ME NNI round 13 of 47, 2301 of 3165 splits, 2 changes (max delta 0.000)
+    282.79 seconds: ME NNI round 13 of 47, 2501 of 3165 splits, 2 changes (max delta 0.000)
+    282.97 seconds: ME NNI round 13 of 47, 2701 of 3165 splits, 2 changes (max delta 0.000)
+    283.15 seconds: ME NNI round 13 of 47, 2901 of 3165 splits, 2 changes (max delta 0.000)
+    283.32 seconds: ME NNI round 13 of 47, 3101 of 3165 splits, 2 changes (max delta 0.000)
+    283.46 seconds: ME NNI round 14 of 47, 101 of 3165 splits, 0 changes
+    283.64 seconds: ME NNI round 14 of 47, 301 of 3165 splits, 0 changes
+    283.82 seconds: ME NNI round 14 of 47, 501 of 3165 splits, 0 changes
+    284.01 seconds: ME NNI round 14 of 47, 701 of 3165 splits, 0 changes
+    284.17 seconds: ME NNI round 14 of 47, 901 of 3165 splits, 0 changes
+    284.36 seconds: ME NNI round 14 of 47, 1101 of 3165 splits, 0 changes
+    284.54 seconds: ME NNI round 14 of 47, 1301 of 3165 splits, 0 changes
+    284.72 seconds: ME NNI round 14 of 47, 1501 of 3165 splits, 0 changes
+    284.91 seconds: ME NNI round 14 of 47, 1701 of 3165 splits, 1 changes (max delta 0.000)
+    285.09 seconds: ME NNI round 14 of 47, 1901 of 3165 splits, 1 changes (max delta 0.000)
+    285.27 seconds: ME NNI round 14 of 47, 2101 of 3165 splits, 1 changes (max delta 0.000)
+    285.46 seconds: ME NNI round 14 of 47, 2301 of 3165 splits, 1 changes (max delta 0.000)
+    285.63 seconds: ME NNI round 14 of 47, 2501 of 3165 splits, 1 changes (max delta 0.000)
+    285.81 seconds: ME NNI round 14 of 47, 2701 of 3165 splits, 1 changes (max delta 0.000)
+    285.98 seconds: ME NNI round 14 of 47, 2901 of 3165 splits, 1 changes (max delta 0.000)
+    286.15 seconds: ME NNI round 14 of 47, 3101 of 3165 splits, 1 changes (max delta 0.000)
+    286.29 seconds: ME NNI round 15 of 47, 101 of 3165 splits, 0 changes
+    286.47 seconds: ME NNI round 15 of 47, 301 of 3165 splits, 0 changes
+    286.65 seconds: ME NNI round 15 of 47, 501 of 3165 splits, 0 changes
+    286.85 seconds: ME NNI round 15 of 47, 701 of 3165 splits, 0 changes
+    287.01 seconds: ME NNI round 15 of 47, 901 of 3165 splits, 0 changes
+    287.19 seconds: ME NNI round 15 of 47, 1101 of 3165 splits, 0 changes
+    287.38 seconds: ME NNI round 15 of 47, 1301 of 3165 splits, 0 changes
+    287.56 seconds: ME NNI round 15 of 47, 1501 of 3165 splits, 0 changes
+    287.75 seconds: ME NNI round 15 of 47, 1701 of 3165 splits, 1 changes (max delta 0.000)
+    287.93 seconds: ME NNI round 15 of 47, 1901 of 3165 splits, 1 changes (max delta 0.000)
+    288.11 seconds: ME NNI round 15 of 47, 2101 of 3165 splits, 1 changes (max delta 0.000)
+    288.29 seconds: ME NNI round 15 of 47, 2301 of 3165 splits, 1 changes (max delta 0.000)
+    288.46 seconds: ME NNI round 15 of 47, 2501 of 3165 splits, 1 changes (max delta 0.000)
+    288.64 seconds: ME NNI round 15 of 47, 2701 of 3165 splits, 1 changes (max delta 0.000)
+    288.81 seconds: ME NNI round 15 of 47, 2901 of 3165 splits, 1 changes (max delta 0.000)
+    288.99 seconds: ME NNI round 15 of 47, 3101 of 3165 splits, 1 changes (max delta 0.000)
+    289.13 seconds: ME NNI round 16 of 47, 101 of 3165 splits, 0 changes
+    289.31 seconds: ME NNI round 16 of 47, 301 of 3165 splits, 0 changes
+    289.49 seconds: ME NNI round 16 of 47, 501 of 3165 splits, 0 changes
+    289.68 seconds: ME NNI round 16 of 47, 701 of 3165 splits, 0 changes
+    289.84 seconds: ME NNI round 16 of 47, 901 of 3165 splits, 0 changes
+    290.03 seconds: ME NNI round 16 of 47, 1101 of 3165 splits, 0 changes
+    290.21 seconds: ME NNI round 16 of 47, 1301 of 3165 splits, 0 changes
+    290.39 seconds: ME NNI round 16 of 47, 1501 of 3165 splits, 0 changes
+    290.58 seconds: ME NNI round 16 of 47, 1701 of 3165 splits, 3 changes (max delta 0.001)
+    290.76 seconds: ME NNI round 16 of 47, 1901 of 3165 splits, 3 changes (max delta 0.001)
+    290.94 seconds: ME NNI round 16 of 47, 2101 of 3165 splits, 3 changes (max delta 0.001)
+    291.12 seconds: ME NNI round 16 of 47, 2301 of 3165 splits, 3 changes (max delta 0.001)
+    291.29 seconds: ME NNI round 16 of 47, 2501 of 3165 splits, 3 changes (max delta 0.001)
+    291.47 seconds: ME NNI round 16 of 47, 2701 of 3165 splits, 3 changes (max delta 0.001)
+    291.64 seconds: ME NNI round 16 of 47, 2901 of 3165 splits, 3 changes (max delta 0.001)
+    291.81 seconds: ME NNI round 16 of 47, 3101 of 3165 splits, 3 changes (max delta 0.001)
+    291.96 seconds: ME NNI round 17 of 47, 101 of 3165 splits, 0 changes
+    292.14 seconds: ME NNI round 17 of 47, 301 of 3165 splits, 0 changes
+    292.31 seconds: ME NNI round 17 of 47, 501 of 3165 splits, 0 changes
+    292.51 seconds: ME NNI round 17 of 47, 701 of 3165 splits, 0 changes
+    292.67 seconds: ME NNI round 17 of 47, 901 of 3165 splits, 0 changes
+    292.85 seconds: ME NNI round 17 of 47, 1101 of 3165 splits, 0 changes
+    293.04 seconds: ME NNI round 17 of 47, 1301 of 3165 splits, 0 changes
+    293.21 seconds: ME NNI round 17 of 47, 1501 of 3165 splits, 0 changes
+    293.40 seconds: ME NNI round 17 of 47, 1701 of 3165 splits, 1 changes (max delta 0.000)
+    293.58 seconds: ME NNI round 17 of 47, 1901 of 3165 splits, 1 changes (max delta 0.000)
+    293.76 seconds: ME NNI round 17 of 47, 2101 of 3165 splits, 1 changes (max delta 0.000)
+    293.94 seconds: ME NNI round 17 of 47, 2301 of 3165 splits, 1 changes (max delta 0.000)
+    294.11 seconds: ME NNI round 17 of 47, 2501 of 3165 splits, 1 changes (max delta 0.000)
+    294.29 seconds: ME NNI round 17 of 47, 2701 of 3165 splits, 1 changes (max delta 0.000)
+    294.46 seconds: ME NNI round 17 of 47, 2901 of 3165 splits, 1 changes (max delta 0.000)
+    294.64 seconds: ME NNI round 17 of 47, 3101 of 3165 splits, 1 changes (max delta 0.000)
+    294.78 seconds: ME NNI round 18 of 47, 101 of 3165 splits, 0 changes
+    294.96 seconds: ME NNI round 18 of 47, 301 of 3165 splits, 0 changes
+    295.13 seconds: ME NNI round 18 of 47, 501 of 3165 splits, 0 changes
+    295.33 seconds: ME NNI round 18 of 47, 701 of 3165 splits, 0 changes
+    295.49 seconds: ME NNI round 18 of 47, 901 of 3165 splits, 0 changes
+    295.67 seconds: ME NNI round 18 of 47, 1101 of 3165 splits, 0 changes
+    295.86 seconds: ME NNI round 18 of 47, 1301 of 3165 splits, 0 changes
+    296.04 seconds: ME NNI round 18 of 47, 1501 of 3165 splits, 0 changes
+    296.14 seconds: ME NNI round 18 of 47, 1601 of 3165 splits, 0 changes
+    296.33 seconds: ME NNI round 18 of 47, 1801 of 3165 splits, 0 changes
+    296.50 seconds: ME NNI round 18 of 47, 2001 of 3165 splits, 0 changes
+    296.68 seconds: ME NNI round 18 of 47, 2201 of 3165 splits, 0 changes
+    296.78 seconds: ME NNI round 18 of 47, 2301 of 3165 splits, 0 changes
+    296.95 seconds: ME NNI round 18 of 47, 2501 of 3165 splits, 0 changes
+    297.14 seconds: ME NNI round 18 of 47, 2701 of 3165 splits, 0 changes
+    297.31 seconds: ME NNI round 18 of 47, 2901 of 3165 splits, 0 changes
+    297.49 seconds: ME NNI round 18 of 47, 3101 of 3165 splits, 0 changes
+    299.53 seconds: SPR round   2 of   4, 101 of 6332 nodes
+    302.13 seconds: SPR round   2 of   4, 201 of 6332 nodes
+    304.60 seconds: SPR round   2 of   4, 301 of 6332 nodes
+    306.95 seconds: SPR round   2 of   4, 401 of 6332 nodes
+    309.54 seconds: SPR round   2 of   4, 501 of 6332 nodes
+    311.80 seconds: SPR round   2 of   4, 601 of 6332 nodes
+    314.50 seconds: SPR round   2 of   4, 701 of 6332 nodes
+    316.91 seconds: SPR round   2 of   4, 801 of 6332 nodes
+    319.80 seconds: SPR round   2 of   4, 901 of 6332 nodes
+    322.18 seconds: SPR round   2 of   4, 1001 of 6332 nodes
+    324.73 seconds: SPR round   2 of   4, 1101 of 6332 nodes
+    327.67 seconds: SPR round   2 of   4, 1201 of 6332 nodes
+    330.94 seconds: SPR round   2 of   4, 1301 of 6332 nodes
+    333.86 seconds: SPR round   2 of   4, 1401 of 6332 nodes
+    336.72 seconds: SPR round   2 of   4, 1501 of 6332 nodes
+    339.53 seconds: SPR round   2 of   4, 1601 of 6332 nodes
+    342.71 seconds: SPR round   2 of   4, 1701 of 6332 nodes
+    344.88 seconds: SPR round   2 of   4, 1801 of 6332 nodes
+    347.67 seconds: SPR round   2 of   4, 1901 of 6332 nodes
+    350.59 seconds: SPR round   2 of   4, 2001 of 6332 nodes
+    353.23 seconds: SPR round   2 of   4, 2101 of 6332 nodes
+    356.17 seconds: SPR round   2 of   4, 2201 of 6332 nodes
+    359.18 seconds: SPR round   2 of   4, 2301 of 6332 nodes
+    362.06 seconds: SPR round   2 of   4, 2401 of 6332 nodes
+    365.11 seconds: SPR round   2 of   4, 2501 of 6332 nodes
+    367.68 seconds: SPR round   2 of   4, 2601 of 6332 nodes
+    370.83 seconds: SPR round   2 of   4, 2701 of 6332 nodes
+    374.46 seconds: SPR round   2 of   4, 2801 of 6332 nodes
+    377.58 seconds: SPR round   2 of   4, 2901 of 6332 nodes
+    380.49 seconds: SPR round   2 of   4, 3001 of 6332 nodes
+    383.61 seconds: SPR round   2 of   4, 3101 of 6332 nodes
+    386.34 seconds: SPR round   2 of   4, 3201 of 6332 nodes
+    388.76 seconds: SPR round   2 of   4, 3301 of 6332 nodes
+    391.61 seconds: SPR round   2 of   4, 3401 of 6332 nodes
+    394.41 seconds: SPR round   2 of   4, 3501 of 6332 nodes
+    397.03 seconds: SPR round   2 of   4, 3601 of 6332 nodes
+    399.79 seconds: SPR round   2 of   4, 3701 of 6332 nodes
+    402.82 seconds: SPR round   2 of   4, 3801 of 6332 nodes
+    405.53 seconds: SPR round   2 of   4, 3901 of 6332 nodes
+    408.41 seconds: SPR round   2 of   4, 4001 of 6332 nodes
+    410.57 seconds: SPR round   2 of   4, 4101 of 6332 nodes
+    414.06 seconds: SPR round   2 of   4, 4201 of 6332 nodes
+    416.43 seconds: SPR round   2 of   4, 4301 of 6332 nodes
+    419.80 seconds: SPR round   2 of   4, 4401 of 6332 nodes
+    422.96 seconds: SPR round   2 of   4, 4501 of 6332 nodes
+    425.77 seconds: SPR round   2 of   4, 4601 of 6332 nodes
+    428.80 seconds: SPR round   2 of   4, 4701 of 6332 nodes
+    431.79 seconds: SPR round   2 of   4, 4801 of 6332 nodes
+    434.92 seconds: SPR round   2 of   4, 4901 of 6332 nodes
+    437.42 seconds: SPR round   2 of   4, 5001 of 6332 nodes
+    440.86 seconds: SPR round   2 of   4, 5101 of 6332 nodes
+    443.03 seconds: SPR round   2 of   4, 5201 of 6332 nodes
+    446.18 seconds: SPR round   2 of   4, 5301 of 6332 nodes
+    449.01 seconds: SPR round   2 of   4, 5401 of 6332 nodes
+    451.84 seconds: SPR round   2 of   4, 5501 of 6332 nodes
+    454.17 seconds: SPR round   2 of   4, 5601 of 6332 nodes
+    457.03 seconds: SPR round   2 of   4, 5701 of 6332 nodes
+    459.71 seconds: SPR round   2 of   4, 5801 of 6332 nodes
+    462.92 seconds: SPR round   2 of   4, 5901 of 6332 nodes
+    465.91 seconds: SPR round   2 of   4, 6001 of 6332 nodes
+    468.50 seconds: SPR round   2 of   4, 6101 of 6332 nodes
+    471.05 seconds: SPR round   2 of   4, 6201 of 6332 nodes
+    473.71 seconds: SPR round   2 of   4, 6301 of 6332 nodes
+    474.57 seconds: ME NNI round 19 of 47, 1 of 3165 splits
+    474.77 seconds: ME NNI round 19 of 47, 201 of 3165 splits, 2 changes (max delta 0.000)
+    474.87 seconds: ME NNI round 19 of 47, 301 of 3165 splits, 4 changes (max delta 0.000)
+    475.08 seconds: ME NNI round 19 of 47, 501 of 3165 splits, 4 changes (max delta 0.000)
+    475.30 seconds: ME NNI round 19 of 47, 701 of 3165 splits, 4 changes (max delta 0.000)
+    475.40 seconds: ME NNI round 19 of 47, 801 of 3165 splits, 4 changes (max delta 0.000)
+    475.58 seconds: ME NNI round 19 of 47, 1001 of 3165 splits, 5 changes (max delta 0.000)
+    475.70 seconds: ME NNI round 19 of 47, 1101 of 3165 splits, 5 changes (max delta 0.000)
+    475.90 seconds: ME NNI round 19 of 47, 1301 of 3165 splits, 6 changes (max delta 0.000)
+    476.00 seconds: ME NNI round 19 of 47, 1401 of 3165 splits, 6 changes (max delta 0.000)
+    476.21 seconds: ME NNI round 19 of 47, 1601 of 3165 splits, 7 changes (max delta 0.000)
+    476.32 seconds: ME NNI round 19 of 47, 1701 of 3165 splits, 7 changes (max delta 0.000)
+    476.42 seconds: ME NNI round 19 of 47, 1801 of 3165 splits, 7 changes (max delta 0.000)
+    476.61 seconds: ME NNI round 19 of 47, 2001 of 3165 splits, 7 changes (max delta 0.000)
+    476.72 seconds: ME NNI round 19 of 47, 2101 of 3165 splits, 9 changes (max delta 0.000)
+    476.92 seconds: ME NNI round 19 of 47, 2301 of 3165 splits, 10 changes (max delta 0.000)
+    477.02 seconds: ME NNI round 19 of 47, 2401 of 3165 splits, 10 changes (max delta 0.000)
+    477.22 seconds: ME NNI round 19 of 47, 2601 of 3165 splits, 10 changes (max delta 0.000)
+    477.42 seconds: ME NNI round 19 of 47, 2801 of 3165 splits, 10 changes (max delta 0.000)
+    477.62 seconds: ME NNI round 19 of 47, 3001 of 3165 splits, 11 changes (max delta 0.001)
+    477.77 seconds: ME NNI round 20 of 47, 1 of 3165 splits
+    477.97 seconds: ME NNI round 20 of 47, 201 of 3165 splits, 1 changes (max delta 0.000)
+    478.07 seconds: ME NNI round 20 of 47, 301 of 3165 splits, 2 changes (max delta 0.000)
+    478.28 seconds: ME NNI round 20 of 47, 501 of 3165 splits, 2 changes (max delta 0.000)
+    478.49 seconds: ME NNI round 20 of 47, 701 of 3165 splits, 2 changes (max delta 0.000)
+    478.59 seconds: ME NNI round 20 of 47, 801 of 3165 splits, 2 changes (max delta 0.000)
+    478.77 seconds: ME NNI round 20 of 47, 1001 of 3165 splits, 2 changes (max delta 0.000)
+    478.89 seconds: ME NNI round 20 of 47, 1101 of 3165 splits, 2 changes (max delta 0.000)
+    479.10 seconds: ME NNI round 20 of 47, 1301 of 3165 splits, 2 changes (max delta 0.000)
+    479.29 seconds: ME NNI round 20 of 47, 1501 of 3165 splits, 2 changes (max delta 0.000)
+    479.41 seconds: ME NNI round 20 of 47, 1601 of 3165 splits, 2 changes (max delta 0.000)
+    479.51 seconds: ME NNI round 20 of 47, 1701 of 3165 splits, 2 changes (max delta 0.000)
+    479.61 seconds: ME NNI round 20 of 47, 1801 of 3165 splits, 3 changes (max delta 0.000)
+    479.71 seconds: ME NNI round 20 of 47, 1901 of 3165 splits, 3 changes (max delta 0.000)
+    479.92 seconds: ME NNI round 20 of 47, 2101 of 3165 splits, 3 changes (max delta 0.000)
+    480.11 seconds: ME NNI round 20 of 47, 2301 of 3165 splits, 3 changes (max delta 0.000)
+    480.21 seconds: ME NNI round 20 of 47, 2401 of 3165 splits, 3 changes (max delta 0.000)
+    480.41 seconds: ME NNI round 20 of 47, 2601 of 3165 splits, 3 changes (max delta 0.000)
+    480.61 seconds: ME NNI round 20 of 47, 2801 of 3165 splits, 4 changes (max delta 0.000)
+    480.80 seconds: ME NNI round 20 of 47, 3001 of 3165 splits, 4 changes (max delta 0.000)
+    480.93 seconds: ME NNI round 21 of 47, 1 of 3165 splits
+    481.12 seconds: ME NNI round 21 of 47, 201 of 3165 splits, 0 changes
+    481.31 seconds: ME NNI round 21 of 47, 401 of 3165 splits, 2 changes (max delta 0.001)
+    481.41 seconds: ME NNI round 21 of 47, 501 of 3165 splits, 2 changes (max delta 0.001)
+    481.61 seconds: ME NNI round 21 of 47, 701 of 3165 splits, 2 changes (max delta 0.001)
+    481.78 seconds: ME NNI round 21 of 47, 901 of 3165 splits, 2 changes (max delta 0.001)
+    481.98 seconds: ME NNI round 21 of 47, 1101 of 3165 splits, 2 changes (max delta 0.001)
+    482.18 seconds: ME NNI round 21 of 47, 1301 of 3165 splits, 2 changes (max delta 0.001)
+    482.35 seconds: ME NNI round 21 of 47, 1501 of 3165 splits, 2 changes (max delta 0.001)
+    482.46 seconds: ME NNI round 21 of 47, 1601 of 3165 splits, 2 changes (max delta 0.001)
+    482.66 seconds: ME NNI round 21 of 47, 1801 of 3165 splits, 2 changes (max delta 0.001)
+    482.85 seconds: ME NNI round 21 of 47, 2001 of 3165 splits, 2 changes (max delta 0.001)
+    483.03 seconds: ME NNI round 21 of 47, 2201 of 3165 splits, 2 changes (max delta 0.001)
+    483.13 seconds: ME NNI round 21 of 47, 2301 of 3165 splits, 2 changes (max delta 0.001)
+    483.32 seconds: ME NNI round 21 of 47, 2501 of 3165 splits, 2 changes (max delta 0.001)
+    483.51 seconds: ME NNI round 21 of 47, 2701 of 3165 splits, 2 changes (max delta 0.001)
+    483.69 seconds: ME NNI round 21 of 47, 2901 of 3165 splits, 2 changes (max delta 0.001)
+    483.87 seconds: ME NNI round 21 of 47, 3101 of 3165 splits, 2 changes (max delta 0.001)
+    484.02 seconds: ME NNI round 22 of 47, 101 of 3165 splits, 0 changes
+    484.21 seconds: ME NNI round 22 of 47, 301 of 3165 splits, 0 changes
+    484.40 seconds: ME NNI round 22 of 47, 501 of 3165 splits, 0 changes
+    484.60 seconds: ME NNI round 22 of 47, 701 of 3165 splits, 0 changes
+    484.77 seconds: ME NNI round 22 of 47, 901 of 3165 splits, 0 changes
+    484.97 seconds: ME NNI round 22 of 47, 1101 of 3165 splits, 0 changes
+    485.17 seconds: ME NNI round 22 of 47, 1301 of 3165 splits, 0 changes
+    485.35 seconds: ME NNI round 22 of 47, 1501 of 3165 splits, 0 changes
+    485.46 seconds: ME NNI round 22 of 47, 1601 of 3165 splits, 0 changes
+    485.65 seconds: ME NNI round 22 of 47, 1801 of 3165 splits, 0 changes
+    485.84 seconds: ME NNI round 22 of 47, 2001 of 3165 splits, 0 changes
+    486.02 seconds: ME NNI round 22 of 47, 2201 of 3165 splits, 0 changes
+    486.12 seconds: ME NNI round 22 of 47, 2301 of 3165 splits, 0 changes
+    486.31 seconds: ME NNI round 22 of 47, 2501 of 3165 splits, 0 changes
+    486.49 seconds: ME NNI round 22 of 47, 2701 of 3165 splits, 0 changes
+    486.68 seconds: ME NNI round 22 of 47, 2901 of 3165 splits, 0 changes
+    486.86 seconds: ME NNI round 22 of 47, 3101 of 3165 splits, 0 changes
+    489.06 seconds: SPR round   3 of   4, 101 of 6332 nodes
+    491.85 seconds: SPR round   3 of   4, 201 of 6332 nodes
+    494.21 seconds: SPR round   3 of   4, 301 of 6332 nodes
+    497.00 seconds: SPR round   3 of   4, 401 of 6332 nodes
+    499.51 seconds: SPR round   3 of   4, 501 of 6332 nodes
+    502.10 seconds: SPR round   3 of   4, 601 of 6332 nodes
+    504.68 seconds: SPR round   3 of   4, 701 of 6332 nodes
+    507.66 seconds: SPR round   3 of   4, 801 of 6332 nodes
+    510.61 seconds: SPR round   3 of   4, 901 of 6332 nodes
+    513.67 seconds: SPR round   3 of   4, 1001 of 6332 nodes
+    516.05 seconds: SPR round   3 of   4, 1101 of 6332 nodes
+    518.99 seconds: SPR round   3 of   4, 1201 of 6332 nodes
+    522.31 seconds: SPR round   3 of   4, 1301 of 6332 nodes
+    525.50 seconds: SPR round   3 of   4, 1401 of 6332 nodes
+    527.92 seconds: SPR round   3 of   4, 1501 of 6332 nodes
+    530.99 seconds: SPR round   3 of   4, 1601 of 6332 nodes
+    534.23 seconds: SPR round   3 of   4, 1701 of 6332 nodes
+    536.77 seconds: SPR round   3 of   4, 1801 of 6332 nodes
+    539.03 seconds: SPR round   3 of   4, 1901 of 6332 nodes
+    541.92 seconds: SPR round   3 of   4, 2001 of 6332 nodes
+    544.82 seconds: SPR round   3 of   4, 2101 of 6332 nodes
+    547.37 seconds: SPR round   3 of   4, 2201 of 6332 nodes
+    550.15 seconds: SPR round   3 of   4, 2301 of 6332 nodes
+    552.99 seconds: SPR round   3 of   4, 2401 of 6332 nodes
+    556.22 seconds: SPR round   3 of   4, 2501 of 6332 nodes
+    559.02 seconds: SPR round   3 of   4, 2601 of 6332 nodes
+    561.73 seconds: SPR round   3 of   4, 2701 of 6332 nodes
+    565.09 seconds: SPR round   3 of   4, 2801 of 6332 nodes
+    568.07 seconds: SPR round   3 of   4, 2901 of 6332 nodes
+    571.22 seconds: SPR round   3 of   4, 3001 of 6332 nodes
+    574.42 seconds: SPR round   3 of   4, 3101 of 6332 nodes
+    577.56 seconds: SPR round   3 of   4, 3201 of 6332 nodes
+    580.17 seconds: SPR round   3 of   4, 3301 of 6332 nodes
+    582.38 seconds: SPR round   3 of   4, 3401 of 6332 nodes
+    585.45 seconds: SPR round   3 of   4, 3501 of 6332 nodes
+    588.07 seconds: SPR round   3 of   4, 3601 of 6332 nodes
+    590.44 seconds: SPR round   3 of   4, 3701 of 6332 nodes
+    593.58 seconds: SPR round   3 of   4, 3801 of 6332 nodes
+    596.31 seconds: SPR round   3 of   4, 3901 of 6332 nodes
+    598.96 seconds: SPR round   3 of   4, 4001 of 6332 nodes
+    601.48 seconds: SPR round   3 of   4, 4101 of 6332 nodes
+    604.48 seconds: SPR round   3 of   4, 4201 of 6332 nodes
+    607.15 seconds: SPR round   3 of   4, 4301 of 6332 nodes
+    610.28 seconds: SPR round   3 of   4, 4401 of 6332 nodes
+    613.34 seconds: SPR round   3 of   4, 4501 of 6332 nodes
+    616.29 seconds: SPR round   3 of   4, 4601 of 6332 nodes
+    619.41 seconds: SPR round   3 of   4, 4701 of 6332 nodes
+    622.19 seconds: SPR round   3 of   4, 4801 of 6332 nodes
+    625.34 seconds: SPR round   3 of   4, 4901 of 6332 nodes
+    627.98 seconds: SPR round   3 of   4, 5001 of 6332 nodes
+    631.25 seconds: SPR round   3 of   4, 5101 of 6332 nodes
+    633.95 seconds: SPR round   3 of   4, 5201 of 6332 nodes
+    636.67 seconds: SPR round   3 of   4, 5301 of 6332 nodes
+    639.25 seconds: SPR round   3 of   4, 5401 of 6332 nodes
+    642.27 seconds: SPR round   3 of   4, 5501 of 6332 nodes
+    644.88 seconds: SPR round   3 of   4, 5601 of 6332 nodes
+    647.33 seconds: SPR round   3 of   4, 5701 of 6332 nodes
+    650.33 seconds: SPR round   3 of   4, 5801 of 6332 nodes
+    653.62 seconds: SPR round   3 of   4, 5901 of 6332 nodes
+    656.56 seconds: SPR round   3 of   4, 6001 of 6332 nodes
+    659.15 seconds: SPR round   3 of   4, 6101 of 6332 nodes
+    661.64 seconds: SPR round   3 of   4, 6201 of 6332 nodes
+    664.31 seconds: SPR round   3 of   4, 6301 of 6332 nodes
+    665.17 seconds: ME NNI round 28 of 47, 1 of 3165 splits
+    665.37 seconds: ME NNI round 28 of 47, 201 of 3165 splits, 2 changes (max delta 0.000)
+    665.47 seconds: ME NNI round 28 of 47, 301 of 3165 splits, 2 changes (max delta 0.000)
+    665.69 seconds: ME NNI round 28 of 47, 501 of 3165 splits, 2 changes (max delta 0.000)
+    665.90 seconds: ME NNI round 28 of 47, 701 of 3165 splits, 2 changes (max delta 0.000)
+    666.01 seconds: ME NNI round 28 of 47, 801 of 3165 splits, 3 changes (max delta 0.013)
+    666.19 seconds: ME NNI round 28 of 47, 1001 of 3165 splits, 5 changes (max delta 0.041)
+    666.31 seconds: ME NNI round 28 of 47, 1101 of 3165 splits, 5 changes (max delta 0.041)
+    666.52 seconds: ME NNI round 28 of 47, 1301 of 3165 splits, 6 changes (max delta 0.041)
+    666.62 seconds: ME NNI round 28 of 47, 1401 of 3165 splits, 6 changes (max delta 0.041)
+    666.83 seconds: ME NNI round 28 of 47, 1601 of 3165 splits, 7 changes (max delta 0.041)
+    666.94 seconds: ME NNI round 28 of 47, 1701 of 3165 splits, 7 changes (max delta 0.041)
+    667.04 seconds: ME NNI round 28 of 47, 1801 of 3165 splits, 8 changes (max delta 0.041)
+    667.24 seconds: ME NNI round 28 of 47, 2001 of 3165 splits, 8 changes (max delta 0.041)
+    667.34 seconds: ME NNI round 28 of 47, 2101 of 3165 splits, 8 changes (max delta 0.041)
+    667.54 seconds: ME NNI round 28 of 47, 2301 of 3165 splits, 8 changes (max delta 0.041)
+    667.64 seconds: ME NNI round 28 of 47, 2401 of 3165 splits, 8 changes (max delta 0.041)
+    667.84 seconds: ME NNI round 28 of 47, 2601 of 3165 splits, 8 changes (max delta 0.041)
+    668.04 seconds: ME NNI round 28 of 47, 2801 of 3165 splits, 8 changes (max delta 0.041)
+    668.24 seconds: ME NNI round 28 of 47, 3001 of 3165 splits, 8 changes (max delta 0.041)
+    668.38 seconds: ME NNI round 29 of 47, 1 of 3165 splits
+    668.58 seconds: ME NNI round 29 of 47, 201 of 3165 splits, 1 changes (max delta 0.000)
+    668.68 seconds: ME NNI round 29 of 47, 301 of 3165 splits, 1 changes (max delta 0.000)
+    668.88 seconds: ME NNI round 29 of 47, 501 of 3165 splits, 1 changes (max delta 0.000)
+    669.09 seconds: ME NNI round 29 of 47, 701 of 3165 splits, 1 changes (max delta 0.000)
+    669.28 seconds: ME NNI round 29 of 47, 901 of 3165 splits, 2 changes (max delta 0.024)
+    669.49 seconds: ME NNI round 29 of 47, 1101 of 3165 splits, 2 changes (max delta 0.024)
+    669.69 seconds: ME NNI round 29 of 47, 1301 of 3165 splits, 2 changes (max delta 0.024)
+    669.88 seconds: ME NNI round 29 of 47, 1501 of 3165 splits, 2 changes (max delta 0.024)
+    670.00 seconds: ME NNI round 29 of 47, 1601 of 3165 splits, 2 changes (max delta 0.024)
+    670.10 seconds: ME NNI round 29 of 47, 1701 of 3165 splits, 2 changes (max delta 0.024)
+    670.21 seconds: ME NNI round 29 of 47, 1801 of 3165 splits, 3 changes (max delta 0.024)
+    670.40 seconds: ME NNI round 29 of 47, 2001 of 3165 splits, 3 changes (max delta 0.024)
+    670.51 seconds: ME NNI round 29 of 47, 2101 of 3165 splits, 3 changes (max delta 0.024)
+    670.70 seconds: ME NNI round 29 of 47, 2301 of 3165 splits, 3 changes (max delta 0.024)
+    670.80 seconds: ME NNI round 29 of 47, 2401 of 3165 splits, 3 changes (max delta 0.024)
+    671.00 seconds: ME NNI round 29 of 47, 2601 of 3165 splits, 3 changes (max delta 0.024)
+    671.20 seconds: ME NNI round 29 of 47, 2801 of 3165 splits, 4 changes (max delta 0.024)
+    671.40 seconds: ME NNI round 29 of 47, 3001 of 3165 splits, 4 changes (max delta 0.024)
+    671.54 seconds: ME NNI round 30 of 47, 1 of 3165 splits
+    671.73 seconds: ME NNI round 30 of 47, 201 of 3165 splits, 0 changes
+    671.83 seconds: ME NNI round 30 of 47, 301 of 3165 splits, 0 changes
+    672.04 seconds: ME NNI round 30 of 47, 501 of 3165 splits, 0 changes
+    672.25 seconds: ME NNI round 30 of 47, 701 of 3165 splits, 0 changes
+    672.43 seconds: ME NNI round 30 of 47, 901 of 3165 splits, 0 changes
+    672.64 seconds: ME NNI round 30 of 47, 1101 of 3165 splits, 0 changes
+    672.85 seconds: ME NNI round 30 of 47, 1301 of 3165 splits, 0 changes
+    673.03 seconds: ME NNI round 30 of 47, 1501 of 3165 splits, 0 changes
+    673.15 seconds: ME NNI round 30 of 47, 1601 of 3165 splits, 0 changes
+    673.25 seconds: ME NNI round 30 of 47, 1701 of 3165 splits, 0 changes
+    673.35 seconds: ME NNI round 30 of 47, 1801 of 3165 splits, 1 changes (max delta 0.000)
+    673.55 seconds: ME NNI round 30 of 47, 2001 of 3165 splits, 1 changes (max delta 0.000)
+    673.65 seconds: ME NNI round 30 of 47, 2101 of 3165 splits, 1 changes (max delta 0.000)
+    673.85 seconds: ME NNI round 30 of 47, 2301 of 3165 splits, 1 changes (max delta 0.000)
+    673.95 seconds: ME NNI round 30 of 47, 2401 of 3165 splits, 1 changes (max delta 0.000)
+    674.14 seconds: ME NNI round 30 of 47, 2601 of 3165 splits, 1 changes (max delta 0.000)
+    674.34 seconds: ME NNI round 30 of 47, 2801 of 3165 splits, 1 changes (max delta 0.000)
+    674.53 seconds: ME NNI round 30 of 47, 3001 of 3165 splits, 1 changes (max delta 0.000)
+    674.68 seconds: ME NNI round 31 of 47, 1 of 3165 splits
+    674.87 seconds: ME NNI round 31 of 47, 201 of 3165 splits, 0 changes
+    674.97 seconds: ME NNI round 31 of 47, 301 of 3165 splits, 0 changes
+    675.18 seconds: ME NNI round 31 of 47, 501 of 3165 splits, 0 changes
+    675.39 seconds: ME NNI round 31 of 47, 701 of 3165 splits, 0 changes
+    675.57 seconds: ME NNI round 31 of 47, 901 of 3165 splits, 0 changes
+    675.78 seconds: ME NNI round 31 of 47, 1101 of 3165 splits, 0 changes
+    675.98 seconds: ME NNI round 31 of 47, 1301 of 3165 splits, 0 changes
+    676.17 seconds: ME NNI round 31 of 47, 1501 of 3165 splits, 0 changes
+    676.29 seconds: ME NNI round 31 of 47, 1601 of 3165 splits, 0 changes
+    676.39 seconds: ME NNI round 31 of 47, 1701 of 3165 splits, 0 changes
+    676.49 seconds: ME NNI round 31 of 47, 1801 of 3165 splits, 0 changes
+    676.69 seconds: ME NNI round 31 of 47, 2001 of 3165 splits, 0 changes
+    676.79 seconds: ME NNI round 31 of 47, 2101 of 3165 splits, 0 changes
+    676.99 seconds: ME NNI round 31 of 47, 2301 of 3165 splits, 0 changes
+    677.18 seconds: ME NNI round 31 of 47, 2501 of 3165 splits, 0 changes
+    677.28 seconds: ME NNI round 31 of 47, 2601 of 3165 splits, 0 changes
+    677.48 seconds: ME NNI round 31 of 47, 2801 of 3165 splits, 0 changes
+    677.67 seconds: ME NNI round 31 of 47, 3001 of 3165 splits, 0 changes
+    677.82 seconds: SPR round   4 of   4, 1 of 6332 nodes
+    679.98 seconds: SPR round   4 of   4, 101 of 6332 nodes
+    682.79 seconds: SPR round   4 of   4, 201 of 6332 nodes
+    685.15 seconds: SPR round   4 of   4, 301 of 6332 nodes
+    687.94 seconds: SPR round   4 of   4, 401 of 6332 nodes
+    690.44 seconds: SPR round   4 of   4, 501 of 6332 nodes
+    693.04 seconds: SPR round   4 of   4, 601 of 6332 nodes
+    695.62 seconds: SPR round   4 of   4, 701 of 6332 nodes
+    698.61 seconds: SPR round   4 of   4, 801 of 6332 nodes
+    701.57 seconds: SPR round   4 of   4, 901 of 6332 nodes
+    704.63 seconds: SPR round   4 of   4, 1001 of 6332 nodes
+    707.02 seconds: SPR round   4 of   4, 1101 of 6332 nodes
+    709.74 seconds: SPR round   4 of   4, 1201 of 6332 nodes
+    712.79 seconds: SPR round   4 of   4, 1301 of 6332 nodes
+    715.71 seconds: SPR round   4 of   4, 1401 of 6332 nodes
+    717.94 seconds: SPR round   4 of   4, 1501 of 6332 nodes
+    720.74 seconds: SPR round   4 of   4, 1601 of 6332 nodes
+    723.57 seconds: SPR round   4 of   4, 1701 of 6332 nodes
+    725.90 seconds: SPR round   4 of   4, 1801 of 6332 nodes
+    727.96 seconds: SPR round   4 of   4, 1901 of 6332 nodes
+    730.59 seconds: SPR round   4 of   4, 2001 of 6332 nodes
+    733.25 seconds: SPR round   4 of   4, 2101 of 6332 nodes
+    735.60 seconds: SPR round   4 of   4, 2201 of 6332 nodes
+    738.02 seconds: SPR round   4 of   4, 2301 of 6332 nodes
+    740.62 seconds: SPR round   4 of   4, 2401 of 6332 nodes
+    743.57 seconds: SPR round   4 of   4, 2501 of 6332 nodes
+    746.13 seconds: SPR round   4 of   4, 2601 of 6332 nodes
+    748.62 seconds: SPR round   4 of   4, 2701 of 6332 nodes
+    751.67 seconds: SPR round   4 of   4, 2801 of 6332 nodes
+    754.38 seconds: SPR round   4 of   4, 2901 of 6332 nodes
+    757.25 seconds: SPR round   4 of   4, 3001 of 6332 nodes
+    760.18 seconds: SPR round   4 of   4, 3101 of 6332 nodes
+    763.03 seconds: SPR round   4 of   4, 3201 of 6332 nodes
+    765.44 seconds: SPR round   4 of   4, 3301 of 6332 nodes
+    767.47 seconds: SPR round   4 of   4, 3401 of 6332 nodes
+    770.44 seconds: SPR round   4 of   4, 3501 of 6332 nodes
+    772.84 seconds: SPR round   4 of   4, 3601 of 6332 nodes
+    775.01 seconds: SPR round   4 of   4, 3701 of 6332 nodes
+    777.88 seconds: SPR round   4 of   4, 3801 of 6332 nodes
+    780.38 seconds: SPR round   4 of   4, 3901 of 6332 nodes
+    782.80 seconds: SPR round   4 of   4, 4001 of 6332 nodes
+    785.11 seconds: SPR round   4 of   4, 4101 of 6332 nodes
+    787.85 seconds: SPR round   4 of   4, 4201 of 6332 nodes
+    790.11 seconds: SPR round   4 of   4, 4301 of 6332 nodes
+    792.97 seconds: SPR round   4 of   4, 4401 of 6332 nodes
+    795.77 seconds: SPR round   4 of   4, 4501 of 6332 nodes
+    798.50 seconds: SPR round   4 of   4, 4601 of 6332 nodes
+    801.35 seconds: SPR round   4 of   4, 4701 of 6332 nodes
+    803.89 seconds: SPR round   4 of   4, 4801 of 6332 nodes
+    806.78 seconds: SPR round   4 of   4, 4901 of 6332 nodes
+    809.33 seconds: SPR round   4 of   4, 5001 of 6332 nodes
+    812.45 seconds: SPR round   4 of   4, 5101 of 6332 nodes
+    815.03 seconds: SPR round   4 of   4, 5201 of 6332 nodes
+    817.69 seconds: SPR round   4 of   4, 5301 of 6332 nodes
+    820.26 seconds: SPR round   4 of   4, 5401 of 6332 nodes
+    823.28 seconds: SPR round   4 of   4, 5501 of 6332 nodes
+    825.89 seconds: SPR round   4 of   4, 5601 of 6332 nodes
+    828.33 seconds: SPR round   4 of   4, 5701 of 6332 nodes
+    831.33 seconds: SPR round   4 of   4, 5801 of 6332 nodes
+    834.60 seconds: SPR round   4 of   4, 5901 of 6332 nodes
+    837.53 seconds: SPR round   4 of   4, 6001 of 6332 nodes
+    840.13 seconds: SPR round   4 of   4, 6101 of 6332 nodes
+    842.61 seconds: SPR round   4 of   4, 6201 of 6332 nodes
+    845.28 seconds: SPR round   4 of   4, 6301 of 6332 nodes
+    846.14 seconds: ME NNI round 37 of 47, 1 of 3165 splits
+    846.34 seconds: ME NNI round 37 of 47, 201 of 3165 splits, 2 changes (max delta 0.000)
+    846.44 seconds: ME NNI round 37 of 47, 301 of 3165 splits, 2 changes (max delta 0.000)
+    846.66 seconds: ME NNI round 37 of 47, 501 of 3165 splits, 2 changes (max delta 0.000)
+    846.87 seconds: ME NNI round 37 of 47, 701 of 3165 splits, 2 changes (max delta 0.000)
+    846.97 seconds: ME NNI round 37 of 47, 801 of 3165 splits, 2 changes (max delta 0.000)
+    847.16 seconds: ME NNI round 37 of 47, 1001 of 3165 splits, 4 changes (max delta 0.016)
+    847.27 seconds: ME NNI round 37 of 47, 1101 of 3165 splits, 4 changes (max delta 0.016)
+    847.48 seconds: ME NNI round 37 of 47, 1301 of 3165 splits, 6 changes (max delta 0.016)
+    847.58 seconds: ME NNI round 37 of 47, 1401 of 3165 splits, 6 changes (max delta 0.016)
+    847.80 seconds: ME NNI round 37 of 47, 1601 of 3165 splits, 7 changes (max delta 0.016)
+    847.90 seconds: ME NNI round 37 of 47, 1701 of 3165 splits, 7 changes (max delta 0.016)
+    848.00 seconds: ME NNI round 37 of 47, 1801 of 3165 splits, 7 changes (max delta 0.016)
+    848.10 seconds: ME NNI round 37 of 47, 1901 of 3165 splits, 7 changes (max delta 0.016)
+    848.30 seconds: ME NNI round 37 of 47, 2101 of 3165 splits, 7 changes (max delta 0.016)
+    848.50 seconds: ME NNI round 37 of 47, 2301 of 3165 splits, 7 changes (max delta 0.016)
+    848.61 seconds: ME NNI round 37 of 47, 2401 of 3165 splits, 7 changes (max delta 0.016)
+    848.81 seconds: ME NNI round 37 of 47, 2601 of 3165 splits, 7 changes (max delta 0.016)
+    849.00 seconds: ME NNI round 37 of 47, 2801 of 3165 splits, 7 changes (max delta 0.016)
+    849.20 seconds: ME NNI round 37 of 47, 3001 of 3165 splits, 7 changes (max delta 0.016)
+    849.34 seconds: ME NNI round 38 of 47, 1 of 3165 splits
+    849.53 seconds: ME NNI round 38 of 47, 201 of 3165 splits, 1 changes (max delta 0.000)
+    849.63 seconds: ME NNI round 38 of 47, 301 of 3165 splits, 1 changes (max delta 0.000)
+    849.84 seconds: ME NNI round 38 of 47, 501 of 3165 splits, 1 changes (max delta 0.000)
+    850.05 seconds: ME NNI round 38 of 47, 701 of 3165 splits, 1 changes (max delta 0.000)
+    850.23 seconds: ME NNI round 38 of 47, 901 of 3165 splits, 1 changes (max delta 0.000)
+    850.44 seconds: ME NNI round 38 of 47, 1101 of 3165 splits, 2 changes (max delta 0.000)
+    850.64 seconds: ME NNI round 38 of 47, 1301 of 3165 splits, 2 changes (max delta 0.000)
+    850.83 seconds: ME NNI round 38 of 47, 1501 of 3165 splits, 2 changes (max delta 0.000)
+    850.95 seconds: ME NNI round 38 of 47, 1601 of 3165 splits, 2 changes (max delta 0.000)
+    851.05 seconds: ME NNI round 38 of 47, 1701 of 3165 splits, 2 changes (max delta 0.000)
+    851.15 seconds: ME NNI round 38 of 47, 1801 of 3165 splits, 3 changes (max delta 0.000)
+    851.35 seconds: ME NNI round 38 of 47, 2001 of 3165 splits, 3 changes (max delta 0.000)
+    851.45 seconds: ME NNI round 38 of 47, 2101 of 3165 splits, 3 changes (max delta 0.000)
+    851.65 seconds: ME NNI round 38 of 47, 2301 of 3165 splits, 3 changes (max delta 0.000)
+    851.75 seconds: ME NNI round 38 of 47, 2401 of 3165 splits, 3 changes (max delta 0.000)
+    851.94 seconds: ME NNI round 38 of 47, 2601 of 3165 splits, 3 changes (max delta 0.000)
+    852.14 seconds: ME NNI round 38 of 47, 2801 of 3165 splits, 4 changes (max delta 0.000)
+    852.33 seconds: ME NNI round 38 of 47, 3001 of 3165 splits, 4 changes (max delta 0.000)
+    852.47 seconds: ME NNI round 39 of 47, 1 of 3165 splits
+    852.66 seconds: ME NNI round 39 of 47, 201 of 3165 splits, 0 changes
+    852.86 seconds: ME NNI round 39 of 47, 401 of 3165 splits, 0 changes
+    852.97 seconds: ME NNI round 39 of 47, 501 of 3165 splits, 0 changes
+    853.18 seconds: ME NNI round 39 of 47, 701 of 3165 splits, 0 changes
+    853.36 seconds: ME NNI round 39 of 47, 901 of 3165 splits, 0 changes
+    853.57 seconds: ME NNI round 39 of 47, 1101 of 3165 splits, 0 changes
+    853.77 seconds: ME NNI round 39 of 47, 1301 of 3165 splits, 0 changes
+    853.96 seconds: ME NNI round 39 of 47, 1501 of 3165 splits, 0 changes
+    854.08 seconds: ME NNI round 39 of 47, 1601 of 3165 splits, 0 changes
+    854.18 seconds: ME NNI round 39 of 47, 1701 of 3165 splits, 0 changes
+    854.28 seconds: ME NNI round 39 of 47, 1801 of 3165 splits, 0 changes
+    854.48 seconds: ME NNI round 39 of 47, 2001 of 3165 splits, 0 changes
+    854.58 seconds: ME NNI round 39 of 47, 2101 of 3165 splits, 0 changes
+    854.78 seconds: ME NNI round 39 of 47, 2301 of 3165 splits, 0 changes
+    854.88 seconds: ME NNI round 39 of 47, 2401 of 3165 splits, 0 changes
+    855.07 seconds: ME NNI round 39 of 47, 2601 of 3165 splits, 0 changes
+    855.27 seconds: ME NNI round 39 of 47, 2801 of 3165 splits, 0 changes
+    855.46 seconds: ME NNI round 39 of 47, 3001 of 3165 splits, 0 changes
+Total branch-length 125.843 after 858.69 sec
+    858.90 seconds: ML Lengths 1 of 3165 splits
+    860.31 seconds: ML Lengths 101 of 3165 splits
+    861.72 seconds: ML Lengths 201 of 3165 splits
+    863.18 seconds: ML Lengths 301 of 3165 splits
+    864.59 seconds: ML Lengths 401 of 3165 splits
+    866.09 seconds: ML Lengths 501 of 3165 splits
+    867.51 seconds: ML Lengths 601 of 3165 splits
+    869.03 seconds: ML Lengths 701 of 3165 splits
+    870.46 seconds: ML Lengths 801 of 3165 splits
+    871.77 seconds: ML Lengths 901 of 3165 splits
+    873.14 seconds: ML Lengths 1001 of 3165 splits
+    874.61 seconds: ML Lengths 1101 of 3165 splits
+    876.03 seconds: ML Lengths 1201 of 3165 splits
+    877.46 seconds: ML Lengths 1301 of 3165 splits
+    878.94 seconds: ML Lengths 1401 of 3165 splits
+    880.31 seconds: ML Lengths 1501 of 3165 splits
+    881.82 seconds: ML Lengths 1601 of 3165 splits
+    883.22 seconds: ML Lengths 1701 of 3165 splits
+    884.63 seconds: ML Lengths 1801 of 3165 splits
+    886.00 seconds: ML Lengths 1901 of 3165 splits
+    887.36 seconds: ML Lengths 2001 of 3165 splits
+    888.74 seconds: ML Lengths 2101 of 3165 splits
+    890.12 seconds: ML Lengths 2201 of 3165 splits
+    891.60 seconds: ML Lengths 2301 of 3165 splits
+    893.04 seconds: ML Lengths 2401 of 3165 splits
+    894.42 seconds: ML Lengths 2501 of 3165 splits
+    895.85 seconds: ML Lengths 2601 of 3165 splits
+    897.24 seconds: ML Lengths 2701 of 3165 splits
+    898.70 seconds: ML Lengths 2801 of 3165 splits
+    900.11 seconds: ML Lengths 2901 of 3165 splits
+    901.56 seconds: ML Lengths 3001 of 3165 splits
+    902.94 seconds: ML Lengths 3101 of 3165 splits
+    903.81 seconds: ML NNI round 1 of 23, 1 of 3165 splits
+    911.21 seconds: ML NNI round 1 of 23, 101 of 3165 splits, 17 changes (max delta 13.537)
+    918.67 seconds: ML NNI round 1 of 23, 201 of 3165 splits, 36 changes (max delta 22.764)
+    926.44 seconds: ML NNI round 1 of 23, 301 of 3165 splits, 44 changes (max delta 23.941)
+    933.97 seconds: ML NNI round 1 of 23, 401 of 3165 splits, 55 changes (max delta 23.941)
+    941.76 seconds: ML NNI round 1 of 23, 501 of 3165 splits, 64 changes (max delta 26.328)
+    949.42 seconds: ML NNI round 1 of 23, 601 of 3165 splits, 77 changes (max delta 35.334)
+    957.48 seconds: ML NNI round 1 of 23, 701 of 3165 splits, 88 changes (max delta 41.057)
+    965.20 seconds: ML NNI round 1 of 23, 801 of 3165 splits, 107 changes (max delta 41.057)
+    972.21 seconds: ML NNI round 1 of 23, 901 of 3165 splits, 119 changes (max delta 41.057)
+    979.57 seconds: ML NNI round 1 of 23, 1001 of 3165 splits, 130 changes (max delta 41.057)
+    987.22 seconds: ML NNI round 1 of 23, 1101 of 3165 splits, 152 changes (max delta 41.057)
+    994.90 seconds: ML NNI round 1 of 23, 1201 of 3165 splits, 171 changes (max delta 49.045)
+   1002.51 seconds: ML NNI round 1 of 23, 1301 of 3165 splits, 182 changes (max delta 49.045)
+   1010.40 seconds: ML NNI round 1 of 23, 1401 of 3165 splits, 197 changes (max delta 50.132)
+   1017.67 seconds: ML NNI round 1 of 23, 1501 of 3165 splits, 209 changes (max delta 50.132)
+   1025.59 seconds: ML NNI round 1 of 23, 1601 of 3165 splits, 220 changes (max delta 50.132)
+   1033.08 seconds: ML NNI round 1 of 23, 1701 of 3165 splits, 239 changes (max delta 50.132)
+   1040.58 seconds: ML NNI round 1 of 23, 1801 of 3165 splits, 257 changes (max delta 50.132)
+   1047.89 seconds: ML NNI round 1 of 23, 1901 of 3165 splits, 285 changes (max delta 50.132)
+   1055.13 seconds: ML NNI round 1 of 23, 2001 of 3165 splits, 300 changes (max delta 50.132)
+   1062.43 seconds: ML NNI round 1 of 23, 2101 of 3165 splits, 331 changes (max delta 50.132)
+   1069.97 seconds: ML NNI round 1 of 23, 2201 of 3165 splits, 360 changes (max delta 50.132)
+   1077.91 seconds: ML NNI round 1 of 23, 2301 of 3165 splits, 374 changes (max delta 79.237)
+   1085.63 seconds: ML NNI round 1 of 23, 2401 of 3165 splits, 384 changes (max delta 79.237)
+   1092.99 seconds: ML NNI round 1 of 23, 2501 of 3165 splits, 396 changes (max delta 79.237)
+   1100.58 seconds: ML NNI round 1 of 23, 2601 of 3165 splits, 407 changes (max delta 79.237)
+   1108.18 seconds: ML NNI round 1 of 23, 2701 of 3165 splits, 425 changes (max delta 79.237)
+   1115.96 seconds: ML NNI round 1 of 23, 2801 of 3165 splits, 437 changes (max delta 79.237)
+   1123.50 seconds: ML NNI round 1 of 23, 2901 of 3165 splits, 451 changes (max delta 79.237)
+   1131.24 seconds: ML NNI round 1 of 23, 3001 of 3165 splits, 465 changes (max delta 79.237)
+   1138.67 seconds: ML NNI round 1 of 23, 3101 of 3165 splits, 487 changes (max delta 79.237)
+ML-NNI round 1: LogLk = -2068670.620 NNIs 503 max delta 79.24 Time 1143.67
+   1147.64 seconds: Site likelihoods with rate category 1 of 20
+   1151.62 seconds: Site likelihoods with rate category 2 of 20
+   1155.60 seconds: Site likelihoods with rate category 3 of 20
+   1159.57 seconds: Site likelihoods with rate category 4 of 20
+   1163.54 seconds: Site likelihoods with rate category 5 of 20
+   1167.53 seconds: Site likelihoods with rate category 6 of 20
+   1171.50 seconds: Site likelihoods with rate category 7 of 20
+   1175.48 seconds: Site likelihoods with rate category 8 of 20
+   1179.47 seconds: Site likelihoods with rate category 9 of 20
+   1183.45 seconds: Site likelihoods with rate category 10 of 20
+   1187.43 seconds: Site likelihoods with rate category 11 of 20
+   1191.16 seconds: Site likelihoods with rate category 12 of 20
+   1194.78 seconds: Site likelihoods with rate category 13 of 20
+   1198.55 seconds: Site likelihoods with rate category 14 of 20
+   1202.52 seconds: Site likelihoods with rate category 15 of 20
+   1206.49 seconds: Site likelihoods with rate category 16 of 20
+   1210.53 seconds: Site likelihoods with rate category 17 of 20
+   1214.43 seconds: Site likelihoods with rate category 18 of 20
+   1218.26 seconds: Site likelihoods with rate category 19 of 20
+   1222.10 seconds: Site likelihoods with rate category 20 of 20
+Switched to using 20 rate categories (CAT approximation)
+Rate categories were divided by 1.124 so that average rate = 1.0
+CAT-based log-likelihoods may not be comparable across runs
+Use -gamma for approximate but comparable Gamma(20) log-likelihoods
+   1229.40 seconds: ML NNI round 2 of 23, 1 of 3165 splits
+   1237.22 seconds: ML NNI round 2 of 23, 101 of 3165 splits, 14 changes (max delta 12.206)
+   1245.00 seconds: ML NNI round 2 of 23, 201 of 3165 splits, 28 changes (max delta 12.206)
+   1253.13 seconds: ML NNI round 2 of 23, 301 of 3165 splits, 32 changes (max delta 42.562)
+   1261.20 seconds: ML NNI round 2 of 23, 401 of 3165 splits, 37 changes (max delta 42.562)
+   1269.09 seconds: ML NNI round 2 of 23, 501 of 3165 splits, 49 changes (max delta 42.562)
+   1277.22 seconds: ML NNI round 2 of 23, 601 of 3165 splits, 52 changes (max delta 42.562)
+   1285.47 seconds: ML NNI round 2 of 23, 701 of 3165 splits, 55 changes (max delta 42.562)
+   1293.78 seconds: ML NNI round 2 of 23, 801 of 3165 splits, 57 changes (max delta 42.562)
+   1301.59 seconds: ML NNI round 2 of 23, 901 of 3165 splits, 64 changes (max delta 42.562)
+   1309.58 seconds: ML NNI round 2 of 23, 1001 of 3165 splits, 74 changes (max delta 42.562)
+   1317.22 seconds: ML NNI round 2 of 23, 1101 of 3165 splits, 87 changes (max delta 42.562)
+   1324.76 seconds: ML NNI round 2 of 23, 1201 of 3165 splits, 98 changes (max delta 42.562)
+   1332.34 seconds: ML NNI round 2 of 23, 1301 of 3165 splits, 129 changes (max delta 42.562)
+   1340.22 seconds: ML NNI round 2 of 23, 1401 of 3165 splits, 149 changes (max delta 42.562)
+   1348.51 seconds: ML NNI round 2 of 23, 1501 of 3165 splits, 152 changes (max delta 42.562)
+   1356.60 seconds: ML NNI round 2 of 23, 1601 of 3165 splits, 157 changes (max delta 42.562)
+   1364.50 seconds: ML NNI round 2 of 23, 1701 of 3165 splits, 163 changes (max delta 42.562)
+   1372.37 seconds: ML NNI round 2 of 23, 1801 of 3165 splits, 174 changes (max delta 42.562)
+   1380.31 seconds: ML NNI round 2 of 23, 1901 of 3165 splits, 183 changes (max delta 42.562)
+   1388.29 seconds: ML NNI round 2 of 23, 2001 of 3165 splits, 191 changes (max delta 42.562)
+   1396.61 seconds: ML NNI round 2 of 23, 2101 of 3165 splits, 196 changes (max delta 42.562)
+   1404.10 seconds: ML NNI round 2 of 23, 2201 of 3165 splits, 207 changes (max delta 197.163)
+   1411.91 seconds: ML NNI round 2 of 23, 2301 of 3165 splits, 214 changes (max delta 197.163)
+   1420.15 seconds: ML NNI round 2 of 23, 2401 of 3165 splits, 217 changes (max delta 197.163)
+   1428.11 seconds: ML NNI round 2 of 23, 2501 of 3165 splits, 230 changes (max delta 197.163)
+   1436.14 seconds: ML NNI round 2 of 23, 2601 of 3165 splits, 239 changes (max delta 197.163)
+   1444.17 seconds: ML NNI round 2 of 23, 2701 of 3165 splits, 243 changes (max delta 197.163)
+   1452.35 seconds: ML NNI round 2 of 23, 2801 of 3165 splits, 248 changes (max delta 197.163)
+   1460.35 seconds: ML NNI round 2 of 23, 2901 of 3165 splits, 256 changes (max delta 197.163)
+   1468.53 seconds: ML NNI round 2 of 23, 3001 of 3165 splits, 258 changes (max delta 197.163)
+   1476.32 seconds: ML NNI round 2 of 23, 3101 of 3165 splits, 269 changes (max delta 197.163)
+ML-NNI round 2: LogLk = -1900751.517 NNIs 279 max delta 197.16 Time 1481.63
+   1481.61 seconds: ML NNI round 3 of 23, 1 of 3165 splits
+   1489.31 seconds: ML NNI round 3 of 23, 101 of 3165 splits, 13 changes (max delta 1.906)
+   1497.11 seconds: ML NNI round 3 of 23, 201 of 3165 splits, 17 changes (max delta 1.906)
+   1504.60 seconds: ML NNI round 3 of 23, 301 of 3165 splits, 17 changes (max delta 1.906)
+   1511.86 seconds: ML NNI round 3 of 23, 401 of 3165 splits, 20 changes (max delta 24.761)
+   1519.17 seconds: ML NNI round 3 of 23, 501 of 3165 splits, 24 changes (max delta 24.761)
+   1526.50 seconds: ML NNI round 3 of 23, 601 of 3165 splits, 26 changes (max delta 24.761)
+   1533.95 seconds: ML NNI round 3 of 23, 701 of 3165 splits, 29 changes (max delta 24.761)
+   1541.04 seconds: ML NNI round 3 of 23, 801 of 3165 splits, 36 changes (max delta 24.761)
+   1548.26 seconds: ML NNI round 3 of 23, 901 of 3165 splits, 39 changes (max delta 24.761)
+   1555.73 seconds: ML NNI round 3 of 23, 1001 of 3165 splits, 42 changes (max delta 24.761)
+   1562.97 seconds: ML NNI round 3 of 23, 1101 of 3165 splits, 46 changes (max delta 24.761)
+   1569.63 seconds: ML NNI round 3 of 23, 1201 of 3165 splits, 46 changes (max delta 24.761)
+   1576.88 seconds: ML NNI round 3 of 23, 1301 of 3165 splits, 54 changes (max delta 24.761)
+   1584.18 seconds: ML NNI round 3 of 23, 1401 of 3165 splits, 58 changes (max delta 24.761)
+   1591.40 seconds: ML NNI round 3 of 23, 1501 of 3165 splits, 65 changes (max delta 24.761)
+   1598.82 seconds: ML NNI round 3 of 23, 1601 of 3165 splits, 68 changes (max delta 24.761)
+   1606.21 seconds: ML NNI round 3 of 23, 1701 of 3165 splits, 70 changes (max delta 24.761)
+   1613.41 seconds: ML NNI round 3 of 23, 1801 of 3165 splits, 74 changes (max delta 24.761)
+   1621.01 seconds: ML NNI round 3 of 23, 1901 of 3165 splits, 84 changes (max delta 24.761)
+   1628.56 seconds: ML NNI round 3 of 23, 2001 of 3165 splits, 94 changes (max delta 24.761)
+   1636.16 seconds: ML NNI round 3 of 23, 2101 of 3165 splits, 108 changes (max delta 26.923)
+   1643.94 seconds: ML NNI round 3 of 23, 2201 of 3165 splits, 131 changes (max delta 26.923)
+   1652.12 seconds: ML NNI round 3 of 23, 2301 of 3165 splits, 135 changes (max delta 26.923)
+   1660.27 seconds: ML NNI round 3 of 23, 2401 of 3165 splits, 135 changes (max delta 26.923)
+   1668.40 seconds: ML NNI round 3 of 23, 2501 of 3165 splits, 136 changes (max delta 26.923)
+   1676.13 seconds: ML NNI round 3 of 23, 2601 of 3165 splits, 141 changes (max delta 26.923)
+   1684.08 seconds: ML NNI round 3 of 23, 2701 of 3165 splits, 143 changes (max delta 26.923)
+   1691.68 seconds: ML NNI round 3 of 23, 2801 of 3165 splits, 149 changes (max delta 26.923)
+   1699.49 seconds: ML NNI round 3 of 23, 2901 of 3165 splits, 149 changes (max delta 26.923)
+   1707.04 seconds: ML NNI round 3 of 23, 3001 of 3165 splits, 153 changes (max delta 26.923)
+   1714.87 seconds: ML NNI round 3 of 23, 3101 of 3165 splits, 159 changes (max delta 26.923)
+ML-NNI round 3: LogLk = -1900512.574 NNIs 165 max delta 26.92 Time 1720.01
+   1719.99 seconds: ML NNI round 4 of 23, 1 of 3165 splits
+   1727.70 seconds: ML NNI round 4 of 23, 101 of 3165 splits, 11 changes (max delta 11.487)
+   1735.51 seconds: ML NNI round 4 of 23, 201 of 3165 splits, 16 changes (max delta 12.589)
+   1743.63 seconds: ML NNI round 4 of 23, 301 of 3165 splits, 16 changes (max delta 12.589)
+   1751.78 seconds: ML NNI round 4 of 23, 401 of 3165 splits, 18 changes (max delta 14.200)
+   1759.28 seconds: ML NNI round 4 of 23, 501 of 3165 splits, 22 changes (max delta 24.958)
+   1766.74 seconds: ML NNI round 4 of 23, 601 of 3165 splits, 23 changes (max delta 24.958)
+   1773.86 seconds: ML NNI round 4 of 23, 701 of 3165 splits, 26 changes (max delta 24.958)
+   1781.00 seconds: ML NNI round 4 of 23, 801 of 3165 splits, 31 changes (max delta 24.958)
+   1788.52 seconds: ML NNI round 4 of 23, 901 of 3165 splits, 35 changes (max delta 24.958)
+   1795.61 seconds: ML NNI round 4 of 23, 1001 of 3165 splits, 41 changes (max delta 24.958)
+   1803.06 seconds: ML NNI round 4 of 23, 1101 of 3165 splits, 42 changes (max delta 24.958)
+   1810.27 seconds: ML NNI round 4 of 23, 1201 of 3165 splits, 46 changes (max delta 24.958)
+   1817.30 seconds: ML NNI round 4 of 23, 1301 of 3165 splits, 47 changes (max delta 24.958)
+   1824.14 seconds: ML NNI round 4 of 23, 1401 of 3165 splits, 51 changes (max delta 24.958)
+   1831.61 seconds: ML NNI round 4 of 23, 1501 of 3165 splits, 52 changes (max delta 24.958)
+   1839.04 seconds: ML NNI round 4 of 23, 1601 of 3165 splits, 53 changes (max delta 24.958)
+   1846.10 seconds: ML NNI round 4 of 23, 1701 of 3165 splits, 56 changes (max delta 24.958)
+   1852.99 seconds: ML NNI round 4 of 23, 1801 of 3165 splits, 66 changes (max delta 24.958)
+   1859.92 seconds: ML NNI round 4 of 23, 1901 of 3165 splits, 80 changes (max delta 24.958)
+   1866.87 seconds: ML NNI round 4 of 23, 2001 of 3165 splits, 84 changes (max delta 24.958)
+   1873.95 seconds: ML NNI round 4 of 23, 2101 of 3165 splits, 104 changes (max delta 24.958)
+   1881.26 seconds: ML NNI round 4 of 23, 2201 of 3165 splits, 108 changes (max delta 24.958)
+slurmstepd: error: *** JOB 3082726 ON r192 CANCELLED AT 2018-05-15T00:04:30 DUE TO TIME LIMIT ***
