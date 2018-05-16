@@ -15,4 +15,4 @@ module load muscle
 module load usearch/5.2.32
 # Your commands
 cd /home/haol7814/nsegata-phylophlan-1d174e34b2ae
-./phylophlan.py -i -t  ga_phylo
+./phylophlan.py -i -t ga_phylo --nproc 2
