@@ -1,0 +1,22 @@
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.05 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.02 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /home/haol7814/ga2018/analyses/05_binning/cat_bins/bin.10.cat.fa
+[main] Real time: 0.138 sec; CPU: 0.083 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 222450 sequences (20000111 bp)...
+[M::process] read 219820 sequences (20000072 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 0, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] skip orientation FR as there are not enough pairs
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[mem_sam_pe] [mem_sam_pe] paired reads have different names: "SRR4342137.1", "SRR4342139.1"
+paired reads have different names: "SRR4342137.1", "SRR4342139.1"
+
+
+[W::sam_hdr_parse] Duplicated sequence 'bin_10'
