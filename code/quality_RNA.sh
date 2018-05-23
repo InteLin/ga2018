@@ -11,5 +11,5 @@ module load bioinfo-tools
 module load FastQC/0.11.5
 # Your commands
 cd /home/haol7814/ga2018/analyses/09_RNA_quality
-fastqc /home/haol7814/ga2018/data/raw_data/SRR4342137.fastq.gz
-fastqc /home/haol7814/ga2018/data/raw_data/SRR4342139.fastq.gz
+fastqc /home/haol7814/ga2018/analyses/09_RNA_quality/SRR4342137_trimmed.fastq.gz
+fastqc /home/haol7814/ga2018/analyses/09_RNA_quality/SRR4342139_trimmed.fastq.gz
